@@ -1,5 +1,5 @@
 // import express from 'express';
-  import db from './db/db';
+import db from './db/db';
 
 // var db = require('./db/db');
 var express=require('express');
@@ -38,7 +38,7 @@ app.get('/api/v1/dbase',(req,res)=>{
     })
 });
 
-const PORT = 5000;
+const PORT = 3000;
 
 app.listen(PORT,()=>{
     console.log(`sever running on port ${PORT}`);

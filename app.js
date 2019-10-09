@@ -38,6 +38,33 @@ app.get('/api/v1/dbase',(req,res)=>{
     })
 });
 
+app.post('/api/v1/dbase',(req,res)=>{
+    res.status(400).send({
+        success:'true',
+        message : 'dbase retreived not success',
+        db
+         
+        
+    })
+});
+app.put('/api/v1/dbase',(req,res)=>{
+    res.status(400).send({
+        success:'true',
+        message : 'dbase retreived not success',
+        db
+         
+        
+    })
+});
+app.delete('/api/v1/dbase',(req,res)=>{
+    res.status(400).send({
+        success:'true',
+        message : 'dbase retreived not success',
+        db
+         
+        
+    })
+});
 const PORT = 3000;
 
 app.listen(PORT,()=>{

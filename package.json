@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "gettoys",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A simple REST api for fetching toys",
   "engines": {
     "node": "12.x"
   },
@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/singhrohaajay/gettoys.git"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
-  ],
-  "license": "MIT"
+  ]
+
 }

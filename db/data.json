@@ -7,7 +7,7 @@
 		"age_group": [2.0, 5.0],
 		"amazon_link": "https://amzn.to/2Io2Jk2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
-		"skills_tags": ["construction", "imagination", "creative", "intelligence"],
+		"skills_tags": ["construction", "imagination", "creative", "intelligence"]
 	},
 	"product2":{
 		"id": 11,
@@ -17,7 +17,7 @@
 		"age_group": [3.0, 8.0],
 		"amazon_link": "https://amzn.to/359hEbe",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/916mMgzL22L._SL1500_.jpg",
-		"skills_tags": ["Small Alphabet Recognition", "Writing", "Hand-eye coordination", "Memory"],
+		"skills_tags": ["Small Alphabet Recognition", "Writing", "Hand-eye coordination", "Memory"]
 	},
 	"product3":{
 		"id": 12,
@@ -27,7 +27,7 @@
 		"age_group": [2.0, 5.0],
 		"amazon_link": "https://amzn.to/330Fqo7",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51zV48iTYTL._SY450_.jpg",
-		"skills_tags": ["Action", "strength", "imagination"],
+		"skills_tags": ["Action", "strength", "imagination"]
 	},
 	"product4":{
 		"id": 13,
@@ -37,7 +37,7 @@
 		"age_group": [0.25, 1.0],
 		"amazon_link": "https://amzn.to/2AH41Ch",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LkpYLmbTL._SL1500_.jpg",
-		"skills_tags": ["sensory skills", "gross motor skills", "recognition ability"],
+		"skills_tags": ["sensory skills", "gross motor skills", "recognition ability"]
 	},
 	"product5":{
 		"id": 14,
@@ -47,7 +47,7 @@
 		"age_group": [0.25, 1.0],
 		"amazon_link": "https://amzn.to/3536yod",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41whfXSztML.jpg",
-		"skills_tags": ["posture", "development"],
+		"skills_tags": ["posture", "development"]
 	},
 	"product6":{
 		"id": 15,
@@ -57,7 +57,7 @@
 		"age_group": [0.25, 1.0],
 		"amazon_link": "https://amzn.to/2AIMQjW",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51eNSXoeC4L._SL1500_.jpg",
-		"skills_tags": ["pain relief", "teething", "development"],
+		"skills_tags": ["pain relief", "teething", "development"]
 	},
 	"product7":{
 		"id": 16,
@@ -67,7 +67,7 @@
 		"age_group": [0.25, 0.5],
 		"amazon_link": "https://amzn.to/2ngzzf5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81i9Ls61oRL._SL1500_.jpg",
-		"skills_tags": ["posture", "development", "hands movement"],
+		"skills_tags": ["posture", "development", "hands movement"]
 	},
 	"product8":{
 		"id": 17,
@@ -77,7 +77,7 @@
 		"age_group": [0.25, 1.0],
 		"amazon_link": "https://amzn.to/332nLfD",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k%2ByjFOlVL.jpg",
-		"skills_tags": ["Visionary skills", "dance", "animal recognition"],
+		"skills_tags": ["Visionary skills", "dance", "animal recognition"]
 	},
 	"product9":{
 		"id": 18,
@@ -87,7 +87,7 @@
 		"age_group": [0.5, 1.0],
 		"amazon_link": "https://amzn.to/2ngcoBC",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61ExKS6ndyL._SL1500_.jpg",
-		"skills_tags": ["Curiosity Building", "Object Recognition", "Motor Skills", "Visionary Skills"],
+		"skills_tags": ["Curiosity Building", "Object Recognition", "Motor Skills", "Visionary Skills"]
 	},
 	"product10":{
 		"id": 19,
@@ -97,7 +97,7 @@
 		"age_group": [0.5, 1.0],
 		"amazon_link": "https://amzn.to/330V96A",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k5B63YpQL._SL1000_.jpg",
-		"skills_tags": ["hearing skills", "music", "object recognition"],
+		"skills_tags": ["hearing skills", "music", "object recognition"]
 	},
 	"product11":{
 		"id": 20,
@@ -107,7 +107,7 @@
 		"age_group": [0.5, 1.0],
 		"amazon_link": "https://amzn.to/2IkWnl5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBa%2BCVQtL._SL1500_.jpg",
-		"skills_tags": ["hearing skills", "music", "object recognition", "sound recognition"],
+		"skills_tags": ["hearing skills", "music", "object recognition", "sound recognition"]
 	},
 	"product12":{
 		"id": 21,
@@ -117,7 +117,7 @@
 		"age_group": [1.0, 2.0],
 		"amazon_link": "https://amzn.to/2o5ojmr",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71AaH5W7c1L._SL1500_.jpg",
-		"skills_tags": ["vehicle recognition", "thinking power", "imagination"],
+		"skills_tags": ["vehicle recognition", "thinking power", "imagination"]
 	},
 	"product13":{
 		"id": 22,
@@ -127,7 +127,7 @@
 		"age_group": [1.0, 2.0],
 		"amazon_link": "https://amzn.to/2IoC5Y0",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51NhvctJRlL.jpg",
-		"skills_tags": [" hand eye coordination", "movement", "physical development"],
+		"skills_tags": [" hand eye coordination", "movement", "physical development"]
 	},
 	"product14":{
 		"id": 23,
@@ -137,7 +137,7 @@
 		"age_group": [1.0, 2.0],
 		"amazon_link": "https://amzn.to/2oRqMRg",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/511IUFqx%2BsL.jpg",
-		"skills_tags": ["motor skills", " hand to eye coordination", "body part recognition", "color recognition", "educational"],
+		"skills_tags": ["motor skills", " hand to eye coordination", "body part recognition", "color recognition", "educational"]
 	}
 
 

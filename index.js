@@ -96,7 +96,7 @@ app.get('/get/description/:name', (req, res) => {
 app.get('/get', function (req, res) {
   fs.readFile("db" + "/" + "data.json", 'utf8', function (err, data) {
     console.log(data);
-    res.end(data);
+    res.end(JSON.stringify(data));
   });
 
 })

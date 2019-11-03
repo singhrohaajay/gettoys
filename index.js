@@ -91,11 +91,7 @@ app.get('/get/description/:name', (req, res) => {
     if(resProducts.length==0){
       resProducts = ["404"];
     }
-    return res.status(200).json({
-      success: "true",
-      message: 'Todo retrieved successfully',
-      product: resProducts,
-    });
+    return res.status(200).end(resProducts);
   });
 });
 

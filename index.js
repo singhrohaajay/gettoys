@@ -63,24 +63,6 @@ app.get('/get/content/:name', (req, res) => {
     })
     productarr.map((product) => {
       var flag = true;
-      var desc = product.description;
-      desc = desc.toLowerCase();
-      desc = desc.replace(',', ' ');
-      desc = desc.split(' ');
-      desc.map((word) => {
-        if (name == word) {
-          for (i = 0; i < resProducts.length; i++) {
-            if (resProducts[i]["id"] == product.id) {
-              flag = false;
-            }
-          }
-          if (flag)
-            resProducts.push(product)
-        }
-      })
-    })
-    productarr.map((product) => {
-      var flag = true;
       var title = product.title;
       title = title.toLowerCase();
 

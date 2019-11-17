@@ -62,23 +62,39 @@ app.get('/get/content/:name', (req, res) => {
       })
     })
     productarr.map((product) => {
-      var flag=true;
+      var flag = true;
       var desc = product.description;
       desc = desc.toLowerCase();
-      desc = desc.replace(',',' ');
+      desc = desc.replace(',', ' ');
       desc = desc.split(' ');
       desc.map((word) => {
         if (name == word) {
-          for(i=0;i<resProducts.length;i++){
-            if(resProducts[i]["id"]==product.id){
-              flag=false;
+          for (i = 0; i < resProducts.length; i++) {
+            if (resProducts[i]["id"] == product.id) {
+              flag = false;
             }
           }
-          if(flag)
+          if (flag)
             resProducts.push(product)
         }
       })
     })
+    productarr.map((product) => {
+      var flag = true;
+      var title = product.title;
+      title = title.toLowerCase();
+
+      if (title.indexOf(name) != -1) {
+        for (i = 0; i < resProducts.length; i++) {
+          if (resProducts[i]["id"] == product.id) {
+            flag = false;
+          }
+        }
+        if (flag)
+          resProducts.push(product)
+      }
+    })
+
     if (resProducts.length == 0) {
       resProducts = ["404"];
     }
@@ -102,19 +118,19 @@ app.get('/get/description/:name', (req, res) => {
     }
     let resProducts = [];
     productarr.map((product) => {
-      var flag=true;
+      var flag = true;
       var desc = product.description;
       desc = desc.toLowerCase();
       desc = desc.split(' ');
       console.log(desc)
       desc.map((word) => {
         if (name == word) {
-          for(i=0;i<resProducts.length;i++){
-            if(resProducts[i]["id"]==product.id){
-              flag=false;
+          for (i = 0; i < resProducts.length; i++) {
+            if (resProducts[i]["id"] == product.id) {
+              flag = false;
             }
           }
-          if(flag)
+          if (flag)
             resProducts.push(product)
         }
       })

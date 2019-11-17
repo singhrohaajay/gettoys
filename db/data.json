@@ -7,7 +7,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2Io2Jk2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
-		"Skills_tags": ["construction", "imagination", "creative", "intelligence"],
+		"Skills_tags": ["construction", "imagination", "creativity", "intelligence"],
 		"gender": ["B", "G"]
 	},
 	"product2": {
@@ -18,7 +18,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/359hEbe",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/916mMgzL22L._SL1500_.jpg",
-		"skills_tags": ["Small Alphabet Recognition", "Writing", "coordination", "Memory"],
+		"skills_tags": ["Recognition", "Writing", "coordination", "Memory"],
 		"gender": ["B", "G"]
 
 	},
@@ -42,7 +42,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AH41Ch",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LkpYLmbTL._SL1500_.jpg",
-		"skills_tags": ["sensory skills", "gross motor skills", "recognition ability"],
+		"skills_tags": ["sensory skills", "gross motor skills", "recognition"],
 		"gender": ["B", "G"]
 
 
@@ -90,7 +90,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/332nLfD",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k%2ByjFOlVL.jpg",
-		"skills_tags": ["Visionary skills", "dance", "animal recognition"],
+		"skills_tags": ["Visionary skills", "dance", "recognition"],
 		"gender": ["B", "G"]
 	},
 	"product9": {
@@ -101,7 +101,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2ngcoBC",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61ExKS6ndyL._SL1500_.jpg",
-		"skills_tags": ["Curiosity Building", "Object Recognition", "Motor Skills", "Visionary Skills"],
+		"skills_tags": ["Curiosity Building", "Recognition", "Motor Skills", "Visionary Skills"],
 		"gender": ["B", "G"]
 	},
 	"product10": {
@@ -112,7 +112,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/330V96A",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k5B63YpQL._SL1000_.jpg",
-		"skills_tags": ["hearing skills", "music", "object recognition"],
+		"skills_tags": ["hearing skills", "music", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -124,7 +124,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2IkWnl5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBa%2BCVQtL._SL1500_.jpg",
-		"skills_tags": ["hearing skills", "music", "object recognition", "sound recognition"],
+		"skills_tags": ["hearing skills", "music", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -136,7 +136,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2o5ojmr",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71AaH5W7c1L._SL1500_.jpg",
-		"skills_tags": ["vehicle recognition", "thinking power", "imagination"],
+		"skills_tags": ["recognition", "strategy", "imagination"],
 		"gender": ["B"]
 
 	},
@@ -148,7 +148,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2IoC5Y0",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51NhvctJRlL.jpg",
-		"skills_tags": ["coordination", "movement", "physical development"],
+		"skills_tags": ["coordination", "movement", "development"],
 		"gender": ["B", "G"]
 
 	},
@@ -160,7 +160,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oRqMRg",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/511IUFqx%2BsL.jpg",
-		"skills_tags": ["motor skills", " coordination", "body part recognition", "color recognition", "educational"],
+		"skills_tags": ["motor skills", " coordination", "recognition","educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -172,7 +172,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oMyJap",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/814KW-dYHsL._SL1500_.jpg",
-		"skills_tags": ["coordination", "observation skills", "general development"],
+		"skills_tags": ["coordination", "observation skills", "development"],
 		"gender": ["B", "G"]
 
 	},
@@ -196,7 +196,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AU2fxX",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81GVPZdhwML._SL1500_.jpg",
-		"skills_tags": ["Motor skill", "Sensory development", "Educational"],
+		"skills_tags": ["Motor skill", "development", "Educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -220,7 +220,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/337wrBM",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71qUHGlNSXL._SL1500_.jpg",
-		"skills_tags": ["Logical Thinking", "Environment Awareness", "Matching Skills", "Vocabulary", "Educational"],
+		"skills_tags": ["strategy", "Environment Awareness", "Matching Skills", "Vocabulary", "Educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -232,7 +232,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oR83Ft",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81LB5nXcaBL._SL1500_.jpg",
-		"skills_tags": ["Vehicle recognition", "Sensory skills", "driving skills", "movement"],
+		"skills_tags": ["recognition", "Sensory skills", "driving skills", "movement"],
 		"gender": ["B", "G"]
 
 	},
@@ -244,7 +244,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2Mdru3d",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41Vpi3R185L.jpg",
-		"skills_tags": ["arm and leg coordination", "balancing", "physical development"],
+		"skills_tags": ["arm and leg coordination", "balancing", "development"],
 		"gender": ["B", "G"]
 
 	},
@@ -268,7 +268,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AKGCzK",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41WaAvyJUeL.jpg",
-		"skills_tags": ["object recognition", "human interaction"],
+		"skills_tags": ["recognition", "human interaction"],
 		"gender": ["G"]
 
 
@@ -293,7 +293,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2MhnDSG",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61uhJL32LGL._SL1024_.jpg",
-		"skills_tags": ["construction", "object recognition"],
+		"skills_tags": ["construction", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -329,7 +329,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2OniYS2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71jnJ7LM0NL._SL1500_.jpg",
-		"skills_tags": ["narrative thinking", "creativity", "problem solving", "motor skills"],
+		"skills_tags": ["strategy", "creativity", "problem solving", "motor skills"],
 		"gender": ["G"]
 
 
@@ -391,7 +391,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/31If369",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBI-C%2BowL._SL1500_.jpg",
-		"skills_tags": ["Memory", "coordination", "Problem Solving", "letter recognition"],
+		"skills_tags": ["Memory", "coordination", "Problem Solving", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -415,7 +415,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/36gX4Gw",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41uF-7PDBgL.jpg",
-		"skills_tags": ["visual perception", "Color recognition", "Social"],
+		"skills_tags": ["visual perception", "recognition", "Social"],
 		"gender": ["B", "G"]
 
 	},
@@ -427,7 +427,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/36gX4Gw",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/714KHCyM0DL._SL1500_.jpg",
-		"skills_tags": ["visual perception", "Vehicle recognition", "coordination"],
+		"skills_tags": ["visual perception", "recognition", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -439,7 +439,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2MU72pM",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/A1Ja%2BVKzwjL._SL1500_.jpg",
-		"skills_tags": ["visual perception", "Vehicle recognition", "coordination"],
+		"skills_tags": ["visual perception", "recognition", "coordination"],
 		"gender": ["B"]
 
 
@@ -452,7 +452,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Pp6b25",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61A696LuX%2BL._SL1200_.jpg",
-		"skills_tags": ["motor", "Vehicle recognition", "physical development"],
+		"skills_tags": ["motor", "recognition", "development"],
 		"gender": ["B", "G"]
 	},
 	"product39": {
@@ -463,7 +463,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/34d5ZXL",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81DhNHv5WOL._SL1500_.jpg",
-		"skills_tags": ["Educational", "Scientific development", "coordination"],
+		"skills_tags": ["Educational", "development", "coordination"],
 		"gender": ["B", "G"]
 	},
 	"product40": {
@@ -518,7 +518,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2PrARzG",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91MA%2BTa40-L._SL1500_.jpg",
-		"skills_tags": ["Social", "Entertainment", "Creative"],
+		"skills_tags": ["Social", "Entertainment", "creativity"],
 		"gender": ["B", "G"]
 	},
 	"product45": {
@@ -529,7 +529,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2pmRUZ2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/917wPvTb-FL._SL1500_.jpg",
-		"skills_tags": ["Social", "Thinking ability", "Creative"],
+		"skills_tags": ["Social", "strategy", "creativity"],
 		"gender": ["B", "G"]
 	},
 	"product46": {
@@ -540,7 +540,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2NsUG7g",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LusO8DboL._SL1408_.jpg",
-		"skills_tags": ["Social", "Thinking ability", "intelligence"],
+		"skills_tags": ["Social", "strategy", "intelligence"],
 		"gender": ["B", "G"]
 
 
@@ -565,7 +565,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2JtnuLl",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71ndcyS85IL._SL1100_.jpg",
-		"skills_tags": ["Vocabulary building", "intelligence", "Creative Thinking"],
+		"skills_tags": ["Vocabulary building", "intelligence", "strategy"],
 		"gender": ["B", "G"]
 
 	},
@@ -589,7 +589,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2qUogLa",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71lqbV3CmXL._SL1000_.jpg",
-		"skills_tags": ["Observation Skills", "coordination", "visual recognition"],
+		"skills_tags": ["Observation Skills", "coordination", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -613,7 +613,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Nltp6y",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71PcyE30tfL._SL1500_.jpg",
-		"skills_tags": ["Social", "intelligence", "Creative"],
+		"skills_tags": ["Social", "intelligence", "creativity"],
 		"gender": ["B", "G"]
 
 
@@ -627,7 +627,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Wo4mUo",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81nOK450wmL._SL1500_.jpg",
-		"skills_tags": ["Social", "intelligence", "Creative"],
+		"skills_tags": ["Social", "intelligence", "creativity"],
 		"gender": ["B", "G"]
 
 	},
@@ -639,7 +639,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/36gfM11",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81tI1EqQL%2BL._SL1500_.jpg",
-		"skills_tags": ["imagination", "creative", "Art and craft"],
+		"skills_tags": ["imagination", "creativity", "Art and craft"],
 		"gender": ["B", "G"]
 
 	},
@@ -651,7 +651,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://amzn.to/2JuZVSo",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71522tzBBEL._SL1500_.jpg",
-		"skills_tags": ["Social", "intelligence", "Creative"],
+		"skills_tags": ["Social", "intelligence", "creativity"],
 		"gender": ["B", "G"]
 
 	},
@@ -663,7 +663,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/344jKIi",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81tlsqds-XL._SL1500_.jpg",
-		"skills_tags": ["educational", "intelligence", "motor skills", "State shape recognitions"],
+		"skills_tags": ["educational", "intelligence", "motor skills", "recognitions"],
 		"gender": ["B", "G"]
 	},
 	"product57": {
@@ -685,7 +685,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/34cVN1y",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71zxK3T9r6L._SL1500_.jpg",
-		"skills_tags": ["Social", "Memory", "Creative"],
+		"skills_tags": ["Social", "Memory", "creativity"],
 		"gender": ["B", "G"]
 	},
 	"product59": {
@@ -784,7 +784,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://amzn.to/2BU5Lsu",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71KwvDGQBDL._SL1500_.jpg",
-		"skills_tags": ["strategy", "Analytical thinking", "Movement prediction"],
+		"skills_tags": ["strategy", "Movement prediction"],
 		"gender": ["B", "G"]
 	},
 	"product69": {
@@ -795,7 +795,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://www.amazon.in/Ratnas-Business-Monopoly-Board-Plastic/dp/B01IYXJAFU/ref=pd_sbs_21_23?_encoding=UTF8&pd_rd_i=B01IYXJAFU&pd_rd_r=40336361-9293-4bf9-8d2b-a4abfa74d4f7&pd_rd_w=Kz7JU&pd_rd_wg=UkuKh&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=XGKZWTTCR64H4T6SY5TG&psc=1&refRid=XGKZWTTCR64H4T6SY5TG",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91XSf386gHL._SL1500_.jpg",
-		"skills_tags": ["strategy", "Analytical thinking", "Business"],
+		"skills_tags": ["strategy", "Business"],
 		"gender": ["B", "G"]
 	},
 	"product70": {
@@ -806,7 +806,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2MX0WF5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71szUB8MLkL._SL1500_.jpg",
-		"skills_tags": ["Logical Reasoning", "Creative", "Attention", "Observation"],
+		"skills_tags": ["Logical Reasoning", "creativity", "Attention", "Observation"],
 		"gender": ["B", "G"]
 	},
 	"product71": {
@@ -862,7 +862,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Ps4pNC",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81VDlYm8elL._SL1500_.jpg",
-		"skills_tags": ["coordination", "Strategy", "Logical Thinking"],
+		"skills_tags": ["coordination", "Strategy"],
 		"gender": ["B", "G"]
 
 	},
@@ -874,7 +874,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://www.amazon.in/dp/B0786GZG8V/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0786GZG8V&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUUVZRkZKRk9DVjJBJmVuY3J5cHRlZElkPUEwNTgxOTUzMkxJSlE4QzgyMUg1TyZlbmNyeXB0ZWRBZElkPUEwNzQ4Nzk3M0RZN0VOQks1R1UxMyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71CRNt1RrEL._SL1500_.jpg",
-		"skills_tags": ["Thinking", "coordination", "Vocabulary Building"],
+		"skills_tags": ["strategy", "coordination", "Vocabulary Building"],
 		"gender": ["B", "G"]
 
 	},
@@ -886,7 +886,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://amzn.to/2NmhhST",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81EgZqd33xL._SL1500_.jpg",
-		"skills_tags": ["strategy", "coordination", "Analytical thinking"],
+		"skills_tags": ["strategy", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -898,7 +898,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2NsaNBI",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61iXA5jqp1L._SL1448_.jpg",
-		"skills_tags": ["intelligence", "Analytical thinking", "social"],
+		"skills_tags": ["intelligence", "strategy", "social"],
 		"gender": ["B", "G"]
 
 	},
@@ -934,7 +934,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://amzn.to/36nQ9eJ",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/710ChBRLqyL._SL1289_.jpg",
-		"skills_tags": ["Logical Thinking", "coordination", "Visual Discrimination"],
+		"skills_tags": ["strategy", "coordination", "Visual Discrimination"],
 		"gender": ["B", "G"]
 
 	},
@@ -946,7 +946,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2NxSr2u",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51bKBjvuFUL._SL1024_.jpg",
-		"skills_tags": ["strategy", "Logical thinking", "social"],
+		"skills_tags": ["strategy", "social"],
 		"gender": ["B", "G"]
 
 	},

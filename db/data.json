@@ -7,7 +7,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2Io2Jk2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
-		"Skills_tags": ["construction", "imagination", "creativity", "intelligence"],
+		"skills_tags": ["construction", "imagination", "creativity", "intelligence"],
 		"gender": ["B", "G"]
 	},
 	"product2": {
@@ -55,7 +55,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/3536yod",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41whfXSztML.jpg",
-		"Skills_tags": ["posture", "development"],
+		"skills_tags": ["posture", "development"],
 		"gender": ["B", "G"]
 
 
@@ -828,7 +828,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2q62H9P",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61W2GpC5pgL._SL1000_.jpg",
-		"Skills_tags": ["social", "intelligence", "coordination"],
+		"skills_tags": ["social", "intelligence", "coordination"],
 		"gender": ["B", "G"]
 	},
 	"product73": {
@@ -839,7 +839,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/31VyNm9",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51oBVp9SEnL.jpg",
-		"Skills_tags": ["social", "intelligence", "coordination"],
+		"skills_tags": ["social", "intelligence", "coordination"],
 		"gender": ["B", "G"]
 	},
 	"product74": {

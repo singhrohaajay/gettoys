@@ -54,6 +54,7 @@ app.get('/get/content/:name', (req, res) => {
     productarr.map((product) => {
       var title = product.title;
       title = title.toLowerCase();
+      title = title.replace('-'," ");
       title = title.split(' ');
       title.map((word) => {
         if (name == word) {

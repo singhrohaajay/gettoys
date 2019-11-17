@@ -7,7 +7,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2Io2Jk2",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
-		"skills_tags": ["construction", "imagination", "creativity", "intelligence"],
+		"skills_tags": [ "creativity", "intelligence"],
 		"gender": ["B", "G"]
 	},
 	"product2": {
@@ -18,7 +18,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/359hEbe",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/916mMgzL22L._SL1500_.jpg",
-		"skills_tags": ["Recognition", "Writing", "coordination", "Memory"],
+		"skills_tags": ["Recognition", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -30,7 +30,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/330Fqo7",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51zV48iTYTL._SY450_.jpg",
-		"skills_tags": ["Action", "strength", "imagination"],
+		"skills_tags": ["Action", "imagination"],
 		"gender": ["B"]
 
 	},
@@ -42,7 +42,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AH41Ch",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LkpYLmbTL._SL1500_.jpg",
-		"skills_tags": ["sensory skills", "gross motor skills", "recognition"],
+		"skills_tags": ["sensory skills", "recognition"],
 		"gender": ["B", "G"]
 
 
@@ -68,7 +68,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AIMQjW",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51eNSXoeC4L._SL1500_.jpg",
-		"skills_tags": ["pain relief", "teething", "development"],
+		"skills_tags": [ "teething", "development"],
 		"gender": ["B", "G"]
 	},
 	"product7": {
@@ -90,7 +90,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/332nLfD",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k%2ByjFOlVL.jpg",
-		"skills_tags": ["Visionary skills", "dance", "recognition"],
+		"skills_tags": ["Visionary skills", "recognition"],
 		"gender": ["B", "G"]
 	},
 	"product9": {
@@ -112,7 +112,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/330V96A",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k5B63YpQL._SL1000_.jpg",
-		"skills_tags": ["hearing skills", "music", "recognition"],
+		"skills_tags": ["hearing skills", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -124,7 +124,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2IkWnl5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBa%2BCVQtL._SL1500_.jpg",
-		"skills_tags": ["hearing skills", "music", "recognition"],
+		"skills_tags": ["hearing skills", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -148,7 +148,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2IoC5Y0",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51NhvctJRlL.jpg",
-		"skills_tags": ["coordination", "movement", "development"],
+		"skills_tags": ["coordination", "development"],
 		"gender": ["B", "G"]
 
 	},
@@ -160,7 +160,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oRqMRg",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/511IUFqx%2BsL.jpg",
-		"skills_tags": ["motor skills", " coordination", "recognition","educational"],
+		"skills_tags": [ " coordination", "recognition","educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -172,7 +172,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oMyJap",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/814KW-dYHsL._SL1500_.jpg",
-		"skills_tags": ["coordination", "observation skills", "development"],
+		"skills_tags": ["coordination","development"],
 		"gender": ["B", "G"]
 
 	},
@@ -184,7 +184,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2oR6d7x",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71XYjhXqj5L._SL1368_.jpg",
-		"skills_tags": ["Motor Skills", "Visual Skills", "coordination", "Tactile", "hearing skills"],
+		"skills_tags": ["Motor Skills","coordination", "Tactile", "hearing skills"],
 		"gender": ["B", "G"]
 
 	},
@@ -196,7 +196,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AU2fxX",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81GVPZdhwML._SL1500_.jpg",
-		"skills_tags": ["Motor skill", "development", "Educational"],
+		"skills_tags": [ "development", "Educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -220,7 +220,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/337wrBM",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71qUHGlNSXL._SL1500_.jpg",
-		"skills_tags": ["strategy", "Environment Awareness", "Matching Skills", "Vocabulary", "Educational"],
+		"skills_tags": ["strategy", "Educational", "Environment Awareness", "Matching Skills", "Vocabulary"],
 		"gender": ["B", "G"]
 
 	},
@@ -244,7 +244,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2Mdru3d",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41Vpi3R185L.jpg",
-		"skills_tags": ["arm and leg coordination", "balancing", "development"],
+		"skills_tags": ["arm and leg coordination", "development"],
 		"gender": ["B", "G"]
 
 	},
@@ -305,7 +305,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/354MmlW",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51jvpGtuAXL.jpg",
-		"skills_tags": ["Scientific", "Analytical Skills", "Creativity", "Motor Skills", "Practical Skills", "Educational"],
+		"skills_tags": [ "Creativity",  "Educational"],
 		"gender": ["B", "G"]
 
 	},
@@ -366,7 +366,7 @@
 		"age_group": [10, 14],
 		"amazon_link": "https://amzn.to/2o5kBJz",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91RGgiMe2NL._SL1500_.jpg",
-		"skills_tags": ["Problem Solving", "Social & Communication", "coordination"],
+		"skills_tags": ["Problem Solving", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -378,7 +378,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/2AKKrVD",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81SwGwKCokL._SL1500_.jpg",
-		"skills_tags": ["construction", "independence", "creativity"],
+		"skills_tags": ["construction", "creativity"],
 		"gender": ["B", "G"]
 
 
@@ -391,7 +391,7 @@
 		"age_group": [0, 4],
 		"amazon_link": "https://amzn.to/31If369",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBI-C%2BowL._SL1500_.jpg",
-		"skills_tags": ["Memory", "coordination", "Problem Solving", "recognition"],
+		"skills_tags": [ "coordination", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -415,7 +415,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/36gX4Gw",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41uF-7PDBgL.jpg",
-		"skills_tags": ["visual perception", "recognition", "Social"],
+		"skills_tags": [ "recognition", "Social"],
 		"gender": ["B", "G"]
 
 	},
@@ -427,7 +427,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/36gX4Gw",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/714KHCyM0DL._SL1500_.jpg",
-		"skills_tags": ["visual perception", "recognition", "coordination"],
+		"skills_tags": [ "recognition", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -439,7 +439,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2MU72pM",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/A1Ja%2BVKzwjL._SL1500_.jpg",
-		"skills_tags": ["visual perception", "recognition", "coordination"],
+		"skills_tags": [ "recognition", "coordination"],
 		"gender": ["B"]
 
 
@@ -452,7 +452,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Pp6b25",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61A696LuX%2BL._SL1200_.jpg",
-		"skills_tags": ["motor", "recognition", "development"],
+		"skills_tags": [ "recognition", "development"],
 		"gender": ["B", "G"]
 	},
 	"product39": {
@@ -496,7 +496,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2Ni1ynK",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71y0zW-PE1L._SL1500_.jpg",
-		"skills_tags": ["Social", "Color coordination", "intelligence"],
+		"skills_tags": ["Social", "coordination", "intelligence"],
 		"gender": ["B", "G"]
 	},
 	"product43": {
@@ -507,7 +507,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2JxbPLB",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91AUI-p024L._SL1500_.jpg",
-		"skills_tags": ["Social", "Business", "intelligence"],
+		"skills_tags": ["Social", "intelligence"],
 		"gender": ["B", "G"]
 	},
 	"product44": {
@@ -518,7 +518,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2PrARzG",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91MA%2BTa40-L._SL1500_.jpg",
-		"skills_tags": ["Social", "Entertainment", "creativity"],
+		"skills_tags": ["Social", "creativity"],
 		"gender": ["B", "G"]
 	},
 	"product45": {
@@ -565,7 +565,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2JtnuLl",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71ndcyS85IL._SL1100_.jpg",
-		"skills_tags": ["Vocabulary building", "intelligence", "strategy"],
+		"skills_tags": [ "intelligence", "strategy"],
 		"gender": ["B", "G"]
 
 	},
@@ -589,7 +589,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2qUogLa",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71lqbV3CmXL._SL1000_.jpg",
-		"skills_tags": ["Observation Skills", "coordination", "recognition"],
+		"skills_tags": [ "coordination", "recognition"],
 		"gender": ["B", "G"]
 
 	},
@@ -601,7 +601,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2owuW1e",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71MKTG4GDLL._SL1500_.jpg",
-		"skills_tags": ["Social", "Analytical ability", "coordination"],
+		"skills_tags": ["Social", "coordination"],
 		"gender": ["B", "G"]
 
 	},
@@ -685,7 +685,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/34cVN1y",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71zxK3T9r6L._SL1500_.jpg",
-		"skills_tags": ["Social", "Memory", "creativity"],
+		"skills_tags": ["Social", "creativity"],
 		"gender": ["B", "G"]
 	},
 	"product59": {
@@ -718,7 +718,7 @@
 		"age_group": [14, 18],
 		"amazon_link": "https://amzn.to/2JxfFVc",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51oylGrIXWL.jpg",
-		"skills_tags": ["Observation", "coordination", "Social"],
+		"skills_tags": ["coordination", "Social"],
 		"gender": ["B", "G"]
 	},
 	"product62": {
@@ -806,7 +806,7 @@
 		"age_group": [4, 10],
 		"amazon_link": "https://amzn.to/2MX0WF5",
 		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71szUB8MLkL._SL1500_.jpg",
-		"skills_tags": ["Logical Reasoning", "creativity", "Attention", "Observation"],
+		"skills_tags": [ "creativity", "Attention", "Observation"],
 		"gender": ["B", "G"]
 	},
 	"product71": {

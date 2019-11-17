@@ -6,7 +6,7 @@ var app = express();
 var fs = require("fs");
 
 var app = express();
-app.use(function(req, res, next) {
+app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
@@ -22,15 +22,15 @@ app.get('/get/:id', (req, res) => {
     for (var product in products) {
       productarr.push(products[product]);
     }
-    let resProduct=[]
+    let resProduct = []
     productarr.map((product) => {
       if (product.id == id) {
-        resProduct=[];
+        resProduct = [];
         resProduct.push(product);
       }
     });
-    if(resProduct.length==0){
-      resProduct=["404"]
+    if (resProduct.length == 0) {
+      resProduct = ["404"]
     }
     return res.status(200).json({
       success: "true",
@@ -54,12 +54,32 @@ app.get('/get/content/:name', (req, res) => {
     productarr.map((product) => {
       var title = product.title;
       title = title.toLowerCase();
-      if (title.indexOf(name) !== -1) {
-        resProducts.push(product)
-
-      }
-    });
-    if(resProducts.length==0){
+      title = title.split(' ');
+      title.map((word) => {
+        if (name == word) {
+          resProducts.push(product)
+        }
+      })
+    })
+    productarr.map((product) => {
+      var flag=true;
+      var desc = product.description;
+      desc = desc.toLowerCase();
+      desc = desc.replace(',',' ');
+      desc = desc.split(' ');
+      desc.map((word) => {
+        if (name == word) {
+          for(i=0;i<resProducts.length;i++){
+            if(resProducts[i]["id"]==product.id){
+              flag=false;
+            }
+          }
+          if(flag)
+            resProducts.push(product)
+        }
+      })
+    })
+    if (resProducts.length == 0) {
       resProducts = ["404"];
     }
     return res.status(200).json({
@@ -82,13 +102,24 @@ app.get('/get/description/:name', (req, res) => {
     }
     let resProducts = [];
     productarr.map((product) => {
+      var flag=true;
       var desc = product.description;
       desc = desc.toLowerCase();
-      if (desc.indexOf(name) !== -1) {
-        resProducts.push(product)
-      }
-    });
-    if(resProducts.length==0){
+      desc = desc.split(' ');
+      console.log(desc)
+      desc.map((word) => {
+        if (name == word) {
+          for(i=0;i<resProducts.length;i++){
+            if(resProducts[i]["id"]==product.id){
+              flag=false;
+            }
+          }
+          if(flag)
+            resProducts.push(product)
+        }
+      })
+    })
+    if (resProducts.length == 0) {
       resProducts = ["404"];
     }
     return res.status(200).json({

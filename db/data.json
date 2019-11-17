@@ -1,844 +1,990 @@
 {
-	"product1":{
-		"id":10,
-		"title":"Building Block Toy",
-		"description":"Children have lively imagination. This building block toy provides tremendous possibilities for a child to develop skill, broaden imagination and use intelligence creatively",
-		"price":299,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2Io2Jk2",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
-		"skills_tags":["construction","imagination","creative","intelligence"]
-	},
-	"product2":{
-		"id":11,
-		"title":"Frank Small Alphabet Kit",
-		"description":"It contains 26 sets of 2-piece puzzles, a poster and activity sheets, along with crayons and a pencil. Activity sheets help the child to learn how to write the letters and reinforce what they have learned.",
-		"price":358,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/359hEbe",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/916mMgzL22L._SL1500_.jpg",
-		"skills_tags":["Small Alphabet Recognition", "Writing","Hand-eye coordination", "Memory"]
-	},
-	"product3":{
-		"id":12,
-		"title":"AE Fire Power Bullet Gun",
-		"description":"Product includes gun with bullets. Army print gun with soft bullets attracts kids attention. Kids enjoy this action product.",
-		"price":50,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/330Fqo7",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51zV48iTYTL._SY450_.jpg",
-		"skills_tags":["Action","strength","imagination"]
-	},
-	"product4":{
-		"id":13,
-		"title":"Zest 4 Toyz Rattle Set ",
-		"description":"Perfectly sized with smooth surface and curves suitable for little hands to grasp and shake.can be played in anywhere such as outdoor, indoor, even in the car",
-		"price":479,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2AH41Ch",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71LkpYLmbTL._SL1500_.jpg",
-		"skills_tags":["sensory skills","gross motor skills","recognition ability"]
-	},
-	"product5":{
-		"id":14,
-		"title":"Toddlers Training Seat",
-		"description":"Lightweight and portable easily provides your baby a safe place to sit in any room of the house",
-		"price":572,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/3536yod",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/41whfXSztML.jpg",
-		"skills_tags":["posture","development"]
-	},
-	"product6":{
-		"id":15,
-		"title":"Baby Teether Toy",
-		"description":"it provides optimum comfort and guarantees TEETHING PAIN RELIEF. And nothing beats being able to take your baby's pain away.",
-		"price":279,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2AIMQjW",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51eNSXoeC4L._SL1500_.jpg",
-		"skills_tags":["pain relief", "teething", "development"]
-	},
-	"product7":{
-		"id":16,
-		"title":"Oball Bright Starts Flexible",
-		"description":"Smooth, flexible patented design makes the Oball soft and captivating for little hands",
-		"price":412,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2ngzzf5",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81i9Ls61oRL._SL1500_.jpg",
-		"skills_tags":["posture","development","hands movement"]
-	},
-	"product8":{
-		"id":17,
-		"title":"Toyshine Dancing Frog",
-		"description":"Sunshine musical dancing frog toy, musical dancing frog with lightning effect",
-		"price":389,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/332nLfD",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51k%2ByjFOlVL.jpg",
-		"skills_tags":["Visionary skills", "dance", "animal recognition"]
-	},
-	"product9":{
-		"id":18,
-		"title":"Toyshine Dancing Dog",
-		"description":"The dog carries a crystal ball on it nose which lights up. Develops hand eye coordination.",
-		"price":219,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2ngcoBC",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61ExKS6ndyL._SL1500_.jpg",
-		"skills_tags":["Curiosity Building", "Object Recognition", "Motor Skills", "Visionary Skills"]
-	},
-	"product10":{
-		"id":19,
-		"title":"Xylophone Musical Sound Instrument Toy",
-		"description":"A great instrument to jumpstart your toddler's musical development. Let your child learn and enjoy as he creates the most brilliant sounds.",
-		"price":278,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/330V96A",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51k5B63YpQL._SL1000_.jpg",
-		"skills_tags":["hearing skills","music", "object recognition"]
-	},
-	"product11":{
-		"id":20,
-		"title":"Popsugar Rabbit Musical Piano Toy",
-		"description":"6 different animal buttons has 3 different modes. 8 piano buttons has 3 different modes",
-		"price":425,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2IkWnl5",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81lBa%2BCVQtL._SL1500_.jpg",
-		"skills_tags":["hearing skills","music", "object recognition", "sound recognition"]
-	},
-	"product12":{
-		"id":21,
-		"title":"Toyshine Automobile Car Toy Set",
-		"description":"The Set includes 4 toys: JCB, Cement Mixer, Dumper and a Tractor with trolly",
-		"price":499,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2o5ojmr",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71AaH5W7c1L._SL1500_.jpg",
-		"skills_tags":["vehicle recognition", "thinking power", "imagination"]
-	},
-	"product13":{
-		"id":22,
-		"title":"Disney Bowling Set",
-		"description":"The ball comes with easy-insert finger holes",
-		"price":349,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2IoC5Y0",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51NhvctJRlL.jpg",
-		"skills_tags":[" hand eye coordination","movement","physical development"]
-	},
-	"product14":{
-		"id":23,
-		"title":"Chocozone 360 Dancing Robot Toy",
-		"description":"Chocozone robot toy has dual-wheel foot balancing, which can easily navigate his surroundings. With this dancing robot, you can teach your kids about different parts of the body, colors, and moves. Little robot action with its arms and legs move with the song, 360-degree spinning which develops excellent motor skills and boosts hand to eye coordination while having fun with a walking robot.",
-		"price":425,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2oRqMRg",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/511IUFqx%2BsL.jpg",
-		"skills_tags":["motor skills"," hand eye coordination", "body part recognition", "color recognition", "educational"]
-	},
-	"product15":{
-		"id":24,
-		"title":"Funskool Giggles Stacking Drums",
-		"description":"8 colorful drums in different sizes that stack and nest",
-		"price":122,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2oMyJap",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/814KW-dYHsL._SL1500_.jpg",
-		"skills_tags":["hand-eye coordination","observation skills","general development"]
-	},
-	"product16":{
-		"id":25,
-		"title":"Webby Amazing Learning House",
-		"description":"Counting Beads, Math Toy, Shape Fitting Toy, Music Organ Toy, Door Opening Game",
-		"price":1095,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2oR6d7x",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71XYjhXqj5L._SL1368_.jpg",
-		"skills_tags":["Motor Skills","Visual Skills","Hand-Eye Coordination","Tactile", "hearing skills"]
-	},
-	"product17":{
-		"id":26,
-		"title":"Baby Cherry First Book",
-		"description":"It is loaded with textures, patterns and sounds features which helps in Motor skill and Sensory development of your child.",
-		"price":599,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2AU2fxX",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81GVPZdhwML._SL1500_.jpg",
-		"skills_tags":["Motor skill","Sensory developmen","Educational"]
-	},
-	"product18":{
-		"id":27,
-		"title":"WONDRBOX Activity Kit and Educational Toy",
-		"description":"THE BEST EDUCATIONAL ACTIVITY KIT - Includes 4 activities – (1) Make your own piggy bank (2) Trace and Memorize – 4 clean and wipe flash cards (3) Animal Emotions – This 25 emotional animal will build the child's sorting and classyfiying skills. (4) Emotion Mood train – 3 players game to build communication and talk about expression",
-		"price":485,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2AKQTfA",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71LbLR-reFL._SL1000_.jpg",
-		"skills_tags":["imagination skills", "educational", "emotional intelligence"]
-	},
-	"product19":{
-		"id":28,
-		"title":"Creative's Animal Families and Homes Card Game",
-		"description":"Match animaLs to their babies and homes",
-		"price":136,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/337wrBM",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71qUHGlNSXL._SL1500_.jpg",
-		"skills_tags":["Logical Thinking","Environment Awareness","Matching Skills","Vocabulary","Educational"]
-	},
-	"product20":{
-		"id":29,
-		"title":"Toy House Ride-on Car for Kids",
-		"description":"this lookalike merc-benz amg ride-on toy for kids is simple for your child to drive under adult supervision or for the parents to operate by remote control. It is 2.4 g bluetooth r/c rechargeable battery-operated car with 2x6v double battery, the double motor for double the fun. It comes with advanced slow start function and exciting electronic car sound effects with sound controls, an inbuilt USB/TF card input drive to play music/MP3",
-		"price":15000,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2oR83Ft",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81LB5nXcaBL._SL1500_.jpg",
-		"skills_tags":["Vehicle recognition", "Sensory skills", "driving skills", "mmovement"]
-	},
-	"product21":{
-		"id":30,
-		"title":"Baby Horse Rider toy",
-		"description":"It is a standout toy for both its quality and its longevity and is 100% manufactured in India.",
-		"price":749,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2Mdru3d",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/41Vpi3R185L.jpg",
-		"skills_tags":["arm and leg coordination","balancing","physical development"]
-	},
-	"product22":{
-		"id":31,
-		"title":"Blonde Hair Doll toy",
-		"description":"BABY DOLL THAT REALLY CRAWLS: When you call to baby or shake her rattle, she really crawls to you",
-		"price":4199,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2Mhm2MG",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71N6UfMvFHL._SL1500_.jpg",
-		"skills_tags":["communication","Vocabulary","human interaction"]
-	},
-	"product23":{
-		"id":32,
-		"title":"Minnie Cartoon School Bag Backpack",
-		"description":"Soft And Cuddly Filling, Made By India And Printed Bag",
-		"price":269,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2AKGCzK",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/41WaAvyJUeL.jpg",
-		"skills_tags":["object recognition","human interaction"]
-	},
-	"product24":{
-		"id":33,
-		"title":"Barbie Doll and Playset",
-		"description":"A hairbrush and doll hair dryer let young stylists play out the prep on Barbie doll to get her ready for any occasion",
-		"price":489,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/31MucUb",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71cH%2BS5dcAL._SL1000_.jpg",
-		"skills_tags":["human interaction", "creativity","imagination"]
-	},
-	"product25":{
-		"id":34,
-		"title":"Wooden 12 Colors Set",
-		"description":"Will create a beautiful atmosphere for your wedding or other occassions",
-		"price":233,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2MhnDSG",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61uhJL32LGL._SL1024_.jpg",
-		"skills_tags":["construction", "object recognition"]
-	},
-	"product26":{
-		"id":35,
-		"title":"Space Rocket Toy",
-		"description":"This is a Do It Yourself Activity Kit designed to help children understand fundamental principles of S.T.E.M. subjects (Science, Technology, Engineering and Mathematics).",
-		"price":454,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/354MmlW",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51jvpGtuAXL.jpg",
-		"skills_tags":["Scientific", "Analytical Skills","Creativity","Motor Skills", "Practical Skills", "Educational"]
-	},
-	"product27":{
-		"id":36,
-		"title":"Monopoly Banking Game",
-		"description":"Best finance game with real life elements",
-		"price":1749,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/334BDGg",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71G1s4ZUioL._SL1000_.jpg",
-		"skills_tags":["intelligence", "social contact", "finance"]
-	},
-	"product28":{
-		"id":37,
-		"title":"Supermarket Shop Play Set toy",
-		"description":"The Supermarket shop toy set with sweet music and flash light can attract child's attention to have hours of fun. Moreover, the cart can be used as a storage box after the game is over. supermarket shop play set toy",
-		"price":522,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2OniYS2",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71jnJ7LM0NL._SL1500_.jpg",
-		"skills_tags":["narrative thinking","creativity","problem solving","motor skills"]
-	},
-	"product29":{
-		"id":38,
-		"title":"Mattel Scrabble Board Game",
-		"description":"Scrabble is the classic word game. Your word must use a letter tile already in play on the board.",
-		"price":475,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/354NVAk",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81DxpxY-BaL._SL1500_.jpg",
-		"skills_tags":["creativity","intelligence","social connect"]
-	},
-	"product30":{
-		"id":39,
-		"title":"Lodestone Pagoda Blocks, Block Games",
-		"description":"Amazing block game for kids - it's fun and challenging (a must have toy to develop motor skills)",
-		"price":344,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2OlZNIq",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61UkfGoBwPL._SL1500_.jpg",
-		"skills_tags":["imagination","creativity","hand and eye coordination","Memory"]
-	},
-	"product31":{
-		"id":40,
-		"title":"Skillmatics Educational Game: Brain Games",
-		"description":"Learn through play - 19 highly engaging and repeatable games which build core skills through fun learning methodologies",
-		"price":209,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/2o5kBJz",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/91RGgiMe2NL._SL1500_.jpg",
-		"skills_tags":["Problem Solving","Social & Communication","Concentration"]
-	},
-	"product32":{
-		"id":41,
-		"title":"Play Tent House",
-		"description":"Easy to assemble, pop up instantly and self-supporting can be assembled in 30 seconds and can be folded in 30 seconds",
-		"price":999,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/2AKKrVD",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81SwGwKCokL._SL1500_.jpg",
-		"skills_tags":["construction", "independence","creativity"]
-	},
-	"product33":{
-		"id":42,
-		"title":"Creative's Alphabet Fun ABC Puzzle",
-		"description":"An alphabet puzzle for kids",
-		"price":129,
-		"age_group":[0,4],
-		"amazon_link":"https://amzn.to/31If369",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81lBI-C%2BowL._SL1500_.jpg",
-		"skills_tags":["Memory","Eye-hand Coordination", "Problem Solving", "letter recognition"]
-	},
-	"product34":{
-		"id":43,
-		"title":"Frank Bernese Alps Puzzle",
-		"description":"Providing them with endless amount of fun, learning experience and a sense of achievement",
-		"price":585,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2PtzSiz",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81jJrywQNHL._SL1500_.jpg",
-		"skills_tags":["Memory","Eye-hand Coordination", "visual perception"]
-	},
-	"product35":{
-		"id":44,
-		"title":"Mobison Santa Claus Dress for Christmas",
-		"description":"Santa Claus costume dress for kids, please check the size of the dress as per the body type and age",
-		"price":999,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/36gX4Gw",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/41uF-7PDBgL.jpg",
-		"skills_tags":[ "visual perception", "Color recognition", "Social"]
-	},
-	"product36":{
-		"id":45,
-		"title":"Plastic RC Velocity Helicopter with Remote Control",
-		"description":"Good quaility: Made from good quality abs plastic, nontoxic, environmental friendly to kids. Remote control distance: 30m approx remote functions: left turn, right turn, up fully remote control working led lights.",
-		"price":859,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/36gX4Gw",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/714KHCyM0DL._SL1500_.jpg",
-		"skills_tags":[ "visual perception", "Vehicle recognition", "Hand-Eye coordination"]
-	},
-	"product37":{
-		"id":46,
-		"title":"Racer Car Building Blocks",
-		"description":"Features a powerful pull-back motor, sturdy front bumper, large rear spoiler, wide black rims with low profile tires and an engine pop-out function, which is activated on impact",
-		"price":1998,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2MU72pM",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/A1Ja%2BVKzwjL._SL1500_.jpg",
-		"skills_tags":[ "visual perception", "Vehicle recognition", "Hand-Eye coordination"]
-	},
-	"product38":{
-		"id":47,
-		"title":"R for Rabbit Road Runner Scooter",
-		"description":"3 Adjustable Height, Foldable, LED PU Wheels & Weight Capacity 75 kgs.",
-		"price":2592,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Pp6b25",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61FidUpIpEL._SL1200_.jpg",
-		"skills_tags":[ "motor", "Vehicle recognition", "physical development"]
-	},
-	"product39":{
-		"id":48,
-		"title":"Electronics Discovery Kit Educational Toy",
-		"description":"Give your child an exciting, hands-on introduction to electronics with this kit and let them have fun learning to build circuits with these colorful electronics discovery pieces that easily snap together.",
-		"price":2349,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/34d5ZXL",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81DhNHv5WOL._SL1500_.jpg",
-		"skills_tags":[ "Educational", "Scientific development", "Hand-Eye coordination"]
-	},
-	"product40":{
-		"id":49,
-		"title":"Wooden Handcrafted Folding Chess Set",
-		"description":"Size : 12 Inch X 12 Inch (Open), 12 Inch X 6 Inch (Folded). Travel Friendly Chess. Double Queens Are Included.",
-		"price":1350,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/31S6bdj",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71y8xnEp0nL._SL1453_.jpg",
-		"skills_tags":[ "intelligence", "Social", "Hand-Eye coordination"]
-	},
-	"product41":{
-		"id":50,
-		"title":"Mattel Scrabble Board Game",
-		"description":"Make the best word you can using any of your 7 letter tiles drawn at random.",
-		"price":451,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/34cLE4Y",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81DxpxY-BaL._SL1500_.jpg",
-		"skills_tags":["intelligence", "Social","Memory"]
-	},
-	"product42":{
-		"id":51,
-		"title":"Mattel Uno Playing Card Game",
-		"description":"UNO Cards are made of good quality paper.",
-		"price":129,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Ni1ynK",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71y0zW-PE1L._SL1500_.jpg",
-		"skills_tags":["Social","Color coordination","intelligence"]
-	},
-	"product43":{
-		"id":52,
-		"title":"Funskool Monopoly Deal Card Game",
-		"description":"Collect 3 complete property sets but beware of the debt collectors, forced deals and deal breakers.",
-		"price":246,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JxbPLB",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/91AUI-p024L._SL1500_.jpg",
-		"skills_tags":["Social","Business","intelligence"]
-	},
-	"product44":{
-		"id":53,
-		"title":"Mattel Pictionary Card Game",
-		"description":"Pictionary meets charades in the craziest card game ever, with no drawing required.",
-		"price":199,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2PrARzG",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/91MA%2BTa40-L._SL1500_.jpg",
-		"skills_tags":["Social","Entertainment","Creative"]
-	},
-	"product45":{
-		"id":54,
-		"title":"BINCA Fletter Card Game",
-		"description":"Shout out words at rapid-fire speed from letters placed before you.",
-		"price":199,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2pmRUZ2",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/917wPvTb-FL._SL1500_.jpg",
-		"skills_tags":["Social","Thinking ability","Creative"]
-	},
-	"product46":{
-		"id":55,
-		"title":"Gooyo 5 in 1 Poker Casino Game Set",
-		"description":"5 in 1 Casino Game Set: Play 5 games with this 1 Set Roulette Poker Black Jack Craps Poker Dice. Best Gift for Any House Office Celebration Family Get together Party.",
-		"price":1299,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2NsUG7g",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71LusO8DboL._SL1408_.jpg",
-		"skills_tags":["Social","Thinking ability","intelligence"]
-	},
-	"product47":{
-		"id":56,
-		"title":"Styleys Poker Set Casino Game",
-		"description":"200 Professional Poker Chips, Poker Chips Rack.",
-		"price":799,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JtnuLl",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71g2CHsFBNL._SL1500_.jpg",
-		"skills_tags":["Social","Analytical ability","Business"]
-	},
-	"product48":{
-		"id":57,
-		"title":"The Brain Game of Skill and Speed",
-		"description":"FUN AND FAST PACED WORD GAME - SQUIK is all about using your skill and speed to form words with your tiles that equal to the goal card have hours and hours of fun as you use your brain in a whole new way. Arrange, rearrange, calculate, swap and steal in your quest to be the first to win 5 goal cards can you be the squikest of them all.",
-		"price":489,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JtnuLl",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71ndcyS85IL._SL1100_.jpg",
-		"skills_tags":["Vocabulary building", "intelligence", "Creative Thinking"]
-	},
-	"product49":{
-		"id":58,
-		"title":"Skillmatics Educational Game: Dots and Mazes",
-		"description":"WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats, 1 Skilly Billy pen, 1 Duster Cloth and 1 Skilly Billy Achievement Certificate.",
-		"price":239,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2NlZnj1",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71oPt8ux4TL._SL1100_.jpg",
-		"skills_tags":["Educational","Communication Skills","Logical Reasoning"]
-	},
-	"product50":{
-		"id":59,
-		"title":"Creative's Words Puzzle game",
-		"description":"Create words and have fun.",
-		"price":192,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2qUogLa",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71lqbV3CmXL._SL1000_.jpg",
-		"skills_tags":["Observation Skills","Hand-Eye Coordination","visual recognition"]
-	},
-	"product51":{
-		"id":60,
-		"title":"Funskool Jenga",
-		"description":"This is one game that children and adults can play together, has no learning curve and never gets old or boring.",
-		"price":550,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2owuW1e",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71MKTG4GDLL._SL1500_.jpg",
-		"skills_tags":["Social","Analytical ability","Hand-Eye Coordination"]
-	},
-	"product52":{
-		"id":61,
-		"title":"Mattel Phase 10 Card Game",
-		"description":"From the makers of uno comes a rummy type card game with a challenging and exciting twist.",
-		"price":224,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Nltp6y",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71PcyE30tfL._SL1500_.jpg",
-		"skills_tags":["Social","intelligence","Creative"]
-	},
-	"product53":{
-		"id":62,
-		"title":"Toiing Fun Educational Card Games",
-		"description":"This is discounted mega combo pack of our range of 20 super-fun card games, each with a different method of play.",
-		"price":1592,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Wo4mUo",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81nOK450wmL._SL1500_.jpg",
-		"skills_tags":["Social","intelligence","Creative"]
-	},
-	"product54":{
-		"id":63,
-		"title":"Toiing Doodletoi Return Gift Combo",
-		"description":"A discounted combo of 20 packs, each pack contains 3 sheets of doodletois and a wooden stylus.",
-		"price":1200,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/36gfM11",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81tI1EqQL%2BL._SL1500_.jpg",
-		"skills_tags":["imagination", "creative", "Art and craft"]
-	},
-	"product55":{
-		"id":64,
-		"title":"Funskool Boggle Slam",
-		"description":"Boggle slam is a high-speed four-letter word game.",
-		"price":169,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/2JuZVSo",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71522tzBBEL._SL1500_.jpg",
-		"skills_tags":["Social","intelligence","Creative"]
-	},
-	"product56":{
-		"id":65,
-		"title":"India With State Capitals - Educational Toy",
-		"description":"This Learning toy consist of 1 Eva Foam frame puzzle, 23 state shape Pieces and 34 Flags and state capital stickers.",
-		"price":379,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/344jKIi",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81tlsqds-XL._SL1500_.jpg",
-		"skills_tags":["educational","intelligence","motor skills", "State shape recognitions"]
-	},
-	"product57":{
-		"id":66,
-		"title":"Games Dos",
-		"description":"This classic card game invites two to ten players to challenge each other as individuals or on teams.",
-		"price":199,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/36bVExf",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81T9q7o3xRL._SL1500_.jpg",
-		"skills_tags":["Social","Analytical ability","Business"]
-	},
-	"product58":{
-		"id":67,
-		"title":"Taboo Board Game, Guessing Game",
-		"description":"It's classic Taboo gameplay as players get teammates to say the Guess word without saying the forbidden words on the cards.",
-		"price":1197,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/34cVN1y",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71zxK3T9r6L._SL1500_.jpg",
-		"skills_tags":["Social","Memory","Creative"]
-	},
-	"product59":{
-		"id":68,
-		"title":"Cerasus Wooden Ludo Board Game",
-		"description":"Solid wood construction with Imported birch ply top.",
-		"price":1699,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2qSdFAh",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71bjE-SAC3L._SL1500_.jpg",
-		"skills_tags":["Social","Memory","intelligence"]
-	},
-	"product60":{
-		"id":69,
-		"title":"Snakes and Ladders Ludo Board Game",
-		"description":"Traditional and fun game of snake and ladder. Play with family and friends.",
-		"price":164,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Jtpnb2",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71CyIu10%2B-L._SL1295_.jpg",
-		"skills_tags":["Observation","Concentration","Hand-Eye Concentration"]
-	},
-	"product61":{
-		"id":70,
-		"title":"ShalinIndia Solitaire Board Game",
-		"description":"Classic game set with game board and 36 glass marbles solitaire games.",
-		"price":1510,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JxfFVc",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51oylGrIXWL.jpg",
-		"skills_tags":["Observation","Concentration","Social"]
-	},
-	"product62":{
-		"id":71,
-		"title":"Brass Metal Staunton Folding Chess Board ",
-		"description":"14 inches (Non Magnetic)- Special Slots Storage Inside Board-Best for Gifting, Home Decor & Playing.",
-		"price":4999,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JyegOd",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71Grlk-nlKL._SL1500_.jpg",
-		"skills_tags":[ "intelligence", "Social", "Hand-Eye coordination"]
-	},
-	"product63":{
-		"id":72,
-		"title":"Handmade Tic Tac Toe Wooden Puzzle Board Game",
-		"description":"Size: Length - 5 inches, Width - 5 inches, Height - 0.7 inches.",
-		"price":399,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/34bx0L5",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/41HWsXo0bxL.jpg",
-		"skills_tags":[ "intelligence", "Social", "Hand-Eye coordination"]
-	},
-	"product64":{
-		"id":73,
-		"title":"Wooden Handmade Snakes and Ladders Board Game",
-		"description":"PORTABLE EXCITING BOARD GAME: Portable fun; take snakes and ladders board on the go; this is a perfect travel set that is still being played and enjoyed throughout the world today. This Magnetic snakes and ladders board game set comes with 4 magnetic coins and a wooden dice.",
-		"price":549,
-		"age_group":[10,14],
-		"amazon_link":"https://www.amazon.in/dp/B07JFZHHCK/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07JFZHHCK&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUSFQyMVI4Q1A1QTQmZW5jcnlwdGVkSWQ9QTA3ODgzMTExWTBWUDg2RkRYQU1aJmVuY3J5cHRlZEFkSWQ9QTAxNzM3ODkzMzQ0Tjg2QTRPU1dHJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71uxL4lZrtL._SL1500_.jpg",
-		"skills_tags":["strategy", "concentration", "spatial reasoning", "math skills"]
-	},
-	"product65":{
-		"id":74,
-		"title":"Funskool Game of Life",
-		"description":"Classic board game breaks down an entire lifespan into a series of choices and chance",
-		"price":614,
-		"age_group":[14,18],
-		"amazon_link":"https://www.amazon.in/Funskool-Game-of-Life/dp/B009PGDVZ6/ref=pd_sbs_21_19?_encoding=UTF8&pd_rd_i=B009PGDVZ6&pd_rd_r=542e62a3-411f-4a02-8dab-5525d2dbbac1&pd_rd_w=HTMdr&pd_rd_wg=z5cGt&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=AX4PNRFYD351SEWJNZYP&psc=1&refRid=AX4PNRFYD351SEWJNZYP",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/91YeZap4xOL._SL1500_.jpg",
-		"skills_tags":["strategy", "concentration","social"]
-	},
-	"product66":{
-		"id":75,
-		"title":"Funskool Othello",
-		"description":"This classic game of strategy takes a minute to learn, a lifetime to master.",
-		"price":493,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2JxsizH",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/816hKFLkTzL._SL1500_.jpg",
-		"skills_tags":["strategy", "concentration","social"]
-	},
-	"product68":{
-		"id":77,
-		"title":"Traditional Indian Fun Strategy Board Game",
-		"description":"Unique gifting combo game for children with games based on strategy and skill.",
-		"price":359,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/2BU5Lsu",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71KwvDGQBDL._SL1500_.jpg",
-		"skills_tags":["strategy","Analytical thinking","Movement prediction"]
-	},
-	"product69":{
-		"id":78,
-		"title":"Business Monopoly Board Game with Plastic Money",
-		"description":"Jumbo size, Laminated board, Plastic money.",
-		"price":459,
-		"age_group":[10,14],
-		"amazon_link":"https://www.amazon.in/Ratnas-Business-Monopoly-Board-Plastic/dp/B01IYXJAFU/ref=pd_sbs_21_23?_encoding=UTF8&pd_rd_i=B01IYXJAFU&pd_rd_r=40336361-9293-4bf9-8d2b-a4abfa74d4f7&pd_rd_w=Kz7JU&pd_rd_wg=UkuKh&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=XGKZWTTCR64H4T6SY5TG&psc=1&refRid=XGKZWTTCR64H4T6SY5TG",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/91XSf386gHL._SL1500_.jpg",
-		"skills_tags":["strategy","Analytical thinking","Business"]
-	},
-	"product70":{
-		"id":79,
-		"title":"Skillmatics Educational Game: Boredom Buster",
-		"description":"WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats, 1 Skilly Billy pen, 1 Duster Cloth and 1 Skilly Billy Achievement Certificate.",
-		"price":239,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2MX0WF5",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71szUB8MLkL._SL1500_.jpg",
-		"skills_tags":["Logical Reasoning", "Creative", "Attention", "Observation"]
-	},
-	"product71":{
-		"id":80,
-		"title":"Premium Chinese Checker Board with Marbles and Ludo",
-		"description":"Fun games full of strategy, tactics, skill and mind power in which each player tries to capture or checkmate the opponent.",
-		"price":999,
-		"age_group":[14,18],
-		"amazon_link":"https://www.amazon.in/dp/B06XXDNJGC/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B06XXDNJGC&pd_rd_w=OHJ7O&pf_rd_p=357151f8-058c-46f1-b7d1-fa3647ce3999&pd_rd_wg=hTdlG&pf_rd_r=V6VP5BNYK78HMHJMN6ND&pd_rd_r=9df0fba3-dd2e-4909-97ea-3b95a26a2a5e&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkU5QTZLUkpNMUtEJmVuY3J5cHRlZElkPUEwMDAxODc0MzlNMFg3RkpVNUJPOCZlbmNyeXB0ZWRBZElkPUEwMzcyNDA4MzRNQlc3Tk9SSEcxNSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81ZpfhmlG4L._SL1500_.jpg",
-		"skills_tags":["concentration", "confidence", "memory"]
-	},
-	"product72":{
-		"id":81,
-		"title":"Ludo & Chess Wooden Board Game",
-		"description":"Best Game For Outdoor Picnic , Works As A Mat On Picnic Spot.",
-		"price":219,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2q62H9P",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61W2GpC5pgL._SL1000_.jpg",
-		"skills_tags":["social","intelligence","concentration"]
-	},
-	"product73":{
-		"id":82,
-		"title":"ShalinIndia Four in One Wooden Board Game",
-		"description":"4-In-1 board game set lets you have three fun games in one convenient package.",
-		"price":2380,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/31VyNm9",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51oBVp9SEnL.jpg",
-		"skills_tags":["social","intelligence","concentration"]
-	},
-	"product74":{
-		"id":83,
-		"title":"Monopoly Game of Thrones Board Game",
-		"description":"Based on the hit tv series from hbo: Game of thrones fans can travel the legendary lands of westeros as you buy, sell, and trade locations from the seven kingdoms in this edition of the monopoly game.",
-		"price":2635,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/34bPL0X",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81XscuAh%2BLL._SL1500_.jpg",
-		"skills_tags":["Concentration","Strategy","Social"]
-	},
-	"product75":{
-		"id":84,
-		"title":"Blackpool Strategy Racing Board Game",
-		"description":"Includes 3 tokens and 3 coins for four players each, 5 charm cards, 5 curse cards, 1 dice, 1 rule-book, and 1 game board.",
-		"price":999,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2Ps4pNC",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81VDlYm8elL._SL1500_.jpg",
-		"skills_tags":["Concentration","Strategy","Logical Thinking"]
-	},
-	"product76":{
-		"id":85,
-		"title":"Skillmatics Educational Game: Mind Challenge",
-		"description":"WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats, 1 Skilly Billy Pen, 1 Duster Cloth and 1 Skilly Billy Achievement Certificate.",
-		"price":239,
-		"age_group":[4,10],
-		"amazon_link":"https://www.amazon.in/dp/B0786GZG8V/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0786GZG8V&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUUVZRkZKRk9DVjJBJmVuY3J5cHRlZElkPUEwNTgxOTUzMkxJSlE4QzgyMUg1TyZlbmNyeXB0ZWRBZElkPUEwNzQ4Nzk3M0RZN0VOQks1R1UxMyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/71CRNt1RrEL._SL1500_.jpg",
-		"skills_tags":["Thinking", "Concentration", "Vocabulary Building"]
-	},
-	"product77":{
-		"id":86,
-		"title":"SKAVIJ Handmade Tic Tac Toe Wooden Board Game",
-		"description":"DEVELOP YOUR SKILLS AND LEARN AT THE SAME TIME with this fun travel wooden tic tac toe game with wood tiles for 2 players is a perfect handheld game indoors, outdoors, or during travel in a car, auto, vehicle, or an airplane. Classic game of strategy and skill. Outwit your opponent to win.",
-		"price":345,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/2NmhhST",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81EgZqd33xL._SL1500_.jpg",
-		"skills_tags":["strategy","concentration","Analytical thinking"]
-	},
-	"product78":{
-		"id":87,
-		"title":"SKAVIJ Handmade Bowling Set Indoor Game",
-		"description":"Includes a total of 10, 2-inch pins; pole is 8.5 inches long and attached with a metal ball; base is 5 x 5 inch; gross weight 300 grams.",
-		"price":4241,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2NsaNBI",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61iXA5jqp1L._SL1448_.jpg",
-		"skills_tags":["intelligence","Analytical thinking","social"]
-	},
-	"product79":{
-		"id":88,
-		"title":"Creative's Let's Find Out When Puzzle",
-		"description":"An innovative approach to enhance early learning skills.",
-		"price":224,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2Nll7eV",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61sjpkM9HjL.jpg",
-		"skills_tags":["Visual Discrimination","Comprehension","Reading"]
-	},
-	"product80":{
-		"id":89,
-		"title":"Wigano Wooden 3D Puzzle Game Set",
-		"description":"6-In-One Wooden Puzzle Games Set In One Box.",
-		"price":1045,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2BPpKbR",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/61wDj1%2BqZ1L._SL1500_.jpg",
-		"skills_tags":["social","intelligence","Logical reasoning"]
-	},
-	"product81":{
-		"id":90,
-		"title":"Creative's Things That Go Together Puzzle",
-		"description":"Fun Puzzle for kids and adults",
-		"price":165,
-		"age_group":[10,14],
-		"amazon_link":"https://amzn.to/36nQ9eJ",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/710ChBRLqyL._SL1289_.jpg",
-		"skills_tags":["Logical Thinking","Eye-Hand Coordination","Visual Discrimination"]
-	},
-	"product82":{
-		"id":91,
-		"title":"Wooden Mancala Board Game/Pallanguzhi",
-		"description":"This game is played on a wooden board consisting of five pits each in two rows, totaling 10 pits.",
-		"price":495,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/2NxSr2u",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/51cN8bqidrL._SL1024_.jpg",
-		"skills_tags":["strategy","Logical thinking","social"]
-	},
-	"product83":{
-		"id":92,
-		"title":"Skillmatics Educational Game : Animal Planet",
-		"description":"Card Game of Smart Questions | General Knowledge for Kids, Adults and Families",
-		"price":345,
-		"age_group":[4,10],
-		"amazon_link":"https://amzn.to/2Ny1P6f",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/816Or%2B6iq-L._SL1500_.jpg",
-		"skills_tags":["Social", "Communication skills", "Creativity"]
-	},
-	"product84":{
-		"id":93,
-		"title":"Imagimake Mapology Destination Asia Map Puzzle",
-		"description":"1 Foam puzzle frame set, 1 foam countries set, 1 instructions.",
-		"price":219,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/36nR6nj",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/81SM2JRgFdL._SL1500_.jpg",
-		"skills_tags":["intelligence","educational","Memory"]
-	},
-	"product85":{
-		"id":94,
-		"title":"The Educational, Augmented Reality Based Globe",
-		"description":"Orboot globe + app takes the child on an augmented reality based journey around the world. Fun, interactive. Educational. (No borders or names on globe).",
-		"price":1998,
-		"age_group":[14,18],
-		"amazon_link":"https://amzn.to/327Tlid",
-		"image_link":"https://images-na.ssl-images-amazon.com/images/I/813MBHYbqdL._SL1500_.jpg",
-		"skills_tags":["educational","linguistic","cognitive skills"]
+	"product1": {
+		"id": 10,
+		"title": "Building Block Toy",
+		"description": "Children have lively imagination. This toy provides tremendous possibilities.",
+		"price": 299,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2Io2Jk2",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71nirnQjc1L._SL1320_.jpg",
+		"Skills_tags": ["construction", "imagination", "creative", "intelligence"],
+		"gender": ["B", "G"]
+	},
+	"product2": {
+		"id": 11,
+		"title": "Small Alphabet Kit",
+		"description": "It contains 26 sets of 2-piece puzzles, a poster and activity sheets.",
+		"price": 358,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/359hEbe",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/916mMgzL22L._SL1500_.jpg",
+		"skills_tags": ["Small Alphabet Recognition", "Writing", "coordination", "Memory"],
+		"gender": ["B", "G"]
+
+	},
+	"product3": {
+		"id": 12,
+		"title": "Power Bullet Gun",
+		"description": "Product includes gun with bullets. Army print gun with soft bullets.",
+		"price": 50,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/330Fqo7",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51zV48iTYTL._SY450_.jpg",
+		"skills_tags": ["Action", "strength", "imagination"],
+		"gender": ["B"]
+
+	},
+	"product4": {
+		"id": 13,
+		"title": "Rattle Set ",
+		"description": "Perfectly sized with smooth surface and curves suitable for little hands.",
+		"price": 479,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2AH41Ch",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LkpYLmbTL._SL1500_.jpg",
+		"skills_tags": ["sensory skills", "gross motor skills", "recognition ability"],
+		"gender": ["B", "G"]
+
+
+	},
+	"product5": {
+		"id": 14,
+		"title": "Toddlers Training Seat",
+		"description": "Lightweight and portable easily provides your baby a safe place.",
+		"price": 572,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/3536yod",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41whfXSztML.jpg",
+		"Skills_tags": ["posture", "development"],
+		"gender": ["B", "G"]
+
+
+	},
+	"product6": {
+		"id": 15,
+		"title": "Teether Toy",
+		"description": "it provides optimum comfort and guarantees TEETHING PAIN RELIEF.",
+		"price": 279,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2AIMQjW",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51eNSXoeC4L._SL1500_.jpg",
+		"skills_tags": ["pain relief", "teething", "development"],
+		"gender": ["B", "G"]
+	},
+	"product7": {
+		"id": 16,
+		"title": "Oball Bright",
+		"description": "Smooth, flexible patented design makes the Oball soft and captivating.",
+		"price": 412,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2ngzzf5",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81i9Ls61oRL._SL1500_.jpg",
+		"skills_tags": ["posture", "development", "hands movement"],
+		"gender": ["B", "G"]
+	},
+	"product8": {
+		"id": 17,
+		"title": " Dancing Frog",
+		"description": "Sunshine musical dancing frog toy, musical dancing frog with lightning effect.",
+		"price": 389,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/332nLfD",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k%2ByjFOlVL.jpg",
+		"skills_tags": ["Visionary skills", "dance", "animal recognition"],
+		"gender": ["B", "G"]
+	},
+	"product9": {
+		"id": 18,
+		"title": "Dancing Dog",
+		"description": "The dog carries a crystal ball on it nose which lights up.",
+		"price": 219,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2ngcoBC",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61ExKS6ndyL._SL1500_.jpg",
+		"skills_tags": ["Curiosity Building", "Object Recognition", "Motor Skills", "Visionary Skills"],
+		"gender": ["B", "G"]
+	},
+	"product10": {
+		"id": 19,
+		"title": "Xylophone Musical Toy",
+		"description": "A great instrument to jumpstart your toddler's musical development.",
+		"price": 278,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/330V96A",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51k5B63YpQL._SL1000_.jpg",
+		"skills_tags": ["hearing skills", "music", "object recognition"],
+		"gender": ["B", "G"]
+
+	},
+	"product11": {
+		"id": 20,
+		"title": "Musical Piano Toy",
+		"description": "6 different animal buttons has 3 different modes.",
+		"price": 425,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2IkWnl5",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBa%2BCVQtL._SL1500_.jpg",
+		"skills_tags": ["hearing skills", "music", "object recognition", "sound recognition"],
+		"gender": ["B", "G"]
+
+	},
+	"product12": {
+		"id": 21,
+		"title": "Car Toy Set",
+		"description": "The Set includes 4 toys: JCB, Cement Mixer, Dumper.",
+		"price": 499,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2o5ojmr",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71AaH5W7c1L._SL1500_.jpg",
+		"skills_tags": ["vehicle recognition", "thinking power", "imagination"],
+		"gender": ["B"]
+
+	},
+	"product13": {
+		"id": 22,
+		"title": "Disney Bowling Set",
+		"description": "The ball comes with easy-insert finger holes.",
+		"price": 349,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2IoC5Y0",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51NhvctJRlL.jpg",
+		"skills_tags": ["coordination", "movement", "physical development"],
+		"gender": ["B", "G"]
+
+	},
+	"product14": {
+		"id": 23,
+		"title": "360 Dancing Robot",
+		"description": "Chocozone robot toy has dual-wheel foot balancing.",
+		"price": 425,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2oRqMRg",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/511IUFqx%2BsL.jpg",
+		"skills_tags": ["motor skills", " coordination", "body part recognition", "color recognition", "educational"],
+		"gender": ["B", "G"]
+
+	},
+	"product15": {
+		"id": 24,
+		"title": "Stacking Drums Set",
+		"description": "8 colorful drums in different sizes that stack and nest.",
+		"price": 122,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2oMyJap",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/814KW-dYHsL._SL1500_.jpg",
+		"skills_tags": ["coordination", "observation skills", "general development"],
+		"gender": ["B", "G"]
+
+	},
+	"product16": {
+		"id": 25,
+		"title": " Learning House",
+		"description": "Counting Beads, Math Toy, Shape Fitting Toy, Music Organ Toy.",
+		"price": 1095,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2oR6d7x",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71XYjhXqj5L._SL1368_.jpg",
+		"skills_tags": ["Motor Skills", "Visual Skills", "coordination", "Tactile", "hearing skills"],
+		"gender": ["B", "G"]
+
+	},
+	"product17": {
+		"id": 26,
+		"title": "Baby First Book",
+		"description": "It is loaded with textures, patterns and sounds features.",
+		"price": 599,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2AU2fxX",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81GVPZdhwML._SL1500_.jpg",
+		"skills_tags": ["Motor skill", "Sensory development", "Educational"],
+		"gender": ["B", "G"]
+
+	},
+	"product18": {
+		"id": 27,
+		"title": "Activity Kit",
+		"description": "THE BEST EDUCATIONAL ACTIVITY KIT - Includes 4 activities.",
+		"price": 485,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2AKQTfA",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LbLR-reFL._SL1000_.jpg",
+		"skills_tags": ["imagination skills", "educational", "emotional intelligence"],
+		"gender": ["B", "G"]
+
+	},
+	"product19": {
+		"id": 28,
+		"title": "Animal Card Game",
+		"description": "Match animals to their babies and homes.",
+		"price": 136,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/337wrBM",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71qUHGlNSXL._SL1500_.jpg",
+		"skills_tags": ["Logical Thinking", "Environment Awareness", "Matching Skills", "Vocabulary", "Educational"],
+		"gender": ["B", "G"]
+
+	},
+	"product20": {
+		"id": 29,
+		"title": "Ride-on Car",
+		"description": "This lookalike merc-benz amg ride-on toy for kids is simple.",
+		"price": 15000,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2oR83Ft",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81LB5nXcaBL._SL1500_.jpg",
+		"skills_tags": ["Vehicle recognition", "Sensory skills", "driving skills", "movement"],
+		"gender": ["B", "G"]
+
+	},
+	"product21": {
+		"id": 30,
+		"title": "Horse Rider toy",
+		"description": "It is a standout toy for both its quality and its longevity.",
+		"price": 749,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2Mdru3d",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41Vpi3R185L.jpg",
+		"skills_tags": ["arm and leg coordination", "balancing", "physical development"],
+		"gender": ["B", "G"]
+
+	},
+	"product22": {
+		"id": 31,
+		"title": "Blonde Hair Doll",
+		"description": "BABY DOLL THAT REALLY CRAWLS.",
+		"price": 4199,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2Mhm2MG",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71N6UfMvFHL._SL1500_.jpg",
+		"skills_tags": ["communication", "Vocabulary", "human interaction"],
+		"gender": ["G"]
+
+	},
+	"product23": {
+		"id": 32,
+		"title": "Cartoon School Bag",
+		"description": "Soft And Cuddly Filling, Made By India And Printed Bag.",
+		"price": 269,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2AKGCzK",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41WaAvyJUeL.jpg",
+		"skills_tags": ["object recognition", "human interaction"],
+		"gender": ["G"]
+
+
+	},
+	"product24": {
+		"id": 33,
+		"title": "Barbie Doll",
+		"description": "A hairbrush and doll hair dryer let young stylists playl.",
+		"price": 489,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/31MucUb",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71cH%2BS5dcAL._SL1000_.jpg",
+		"skills_tags": ["human interaction", "creativity", "imagination"],
+		"gender": ["G"]
+
+	},
+	"product25": {
+		"id": 34,
+		"title": "Wooden Colors Set",
+		"description": "Will create a beautiful atmosphere for your wedding.",
+		"price": 233,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2MhnDSG",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61uhJL32LGL._SL1024_.jpg",
+		"skills_tags": ["construction", "object recognition"],
+		"gender": ["B", "G"]
+
+	},
+	"product26": {
+		"id": 35,
+		"title": "Space Rocket Toy",
+		"description": "This is a Do It Yourself Activity Kit designed to help children.",
+		"price": 454,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/354MmlW",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51jvpGtuAXL.jpg",
+		"skills_tags": ["Scientific", "Analytical Skills", "Creativity", "Motor Skills", "Practical Skills", "Educational"],
+		"gender": ["B", "G"]
+
+	},
+	"product27": {
+		"id": 36,
+		"title": "Monopoly Banking Game",
+		"description": "Best finance game with real life elements.",
+		"price": 1749,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/334BDGg",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71G1s4ZUioL._SL1000_.jpg",
+		"skills_tags": ["intelligence", "social contact", "Business"],
+		"gender": ["B", "G"]
+
+	},
+	"product28": {
+		"id": 37,
+		"title": "Supermarket Shop",
+		"description": "The Supermarket shop toy set with sweet music and flash light.",
+		"price": 522,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2OniYS2",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71jnJ7LM0NL._SL1500_.jpg",
+		"skills_tags": ["narrative thinking", "creativity", "problem solving", "motor skills"],
+		"gender": ["G"]
+
+
+	},
+	"product29": {
+		"id": 38,
+		"title": "Scrabble Board Game",
+		"description": "Scrabble is the classic word game.",
+		"price": 475,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/354NVAk",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81DxpxY-BaL._SL1500_.jpg",
+		"skills_tags": ["creativity", "intelligence", "social connect"],
+		"gender": ["B", "G"]
+
+	},
+	"product30": {
+		"id": 39,
+		"title": "Block Game",
+		"description": "Amazing block game for kids - it's fun and challenging.",
+		"price": 344,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2OlZNIq",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61UkfGoBwPL._SL1500_.jpg",
+		"skills_tags": ["imagination", "creativity", "hand and eye coordination", "Memory"],
+		"gender": ["B", "G"]
+
+	},
+	"product31": {
+		"id": 40,
+		"title": "Brain Game",
+		"description": "Learn through play - 19 highly engaging and repeatable games.",
+		"price": 209,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/2o5kBJz",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91RGgiMe2NL._SL1500_.jpg",
+		"skills_tags": ["Problem Solving", "Social & Communication", "coordination"],
+		"gender": ["B", "G"]
+
+	},
+	"product32": {
+		"id": 41,
+		"title": "Play Tent House",
+		"description": "Easy to assemble, pop up instantly and self-supporting.",
+		"price": 999,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/2AKKrVD",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81SwGwKCokL._SL1500_.jpg",
+		"skills_tags": ["construction", "independence", "creativity"],
+		"gender": ["B", "G"]
+
+
+	},
+	"product33": {
+		"id": 42,
+		"title": "ABC Puzzle",
+		"description": "An alphabet puzzle for kids.",
+		"price": 129,
+		"age_group": [0, 4],
+		"amazon_link": "https://amzn.to/31If369",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81lBI-C%2BowL._SL1500_.jpg",
+		"skills_tags": ["Memory", "coordination", "Problem Solving", "letter recognition"],
+		"gender": ["B", "G"]
+
+	},
+	"product34": {
+		"id": 43,
+		"title": "Alps Puzzle",
+		"description": "Providing them with endless amount of fun, learning experience.",
+		"price": 585,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2PtzSiz",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81jJrywQNHL._SL1500_.jpg",
+		"skills_tags": ["Memory", "coordination", "visual perception"],
+		"gender": ["B", "G"]
+
+	},
+	"product35": {
+		"id": 44,
+		"title": "Santa Claus Dress",
+		"description": "Santa Claus costume dress for kids.",
+		"price": 999,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/36gX4Gw",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41uF-7PDBgL.jpg",
+		"skills_tags": ["visual perception", "Color recognition", "Social"],
+		"gender": ["B", "G"]
+
+	},
+	"product36": {
+		"id": 45,
+		"title": "Velocity Helicopter",
+		"description": "Good quaility: Made from good quality abs plastic, environmental friendly to kids.",
+		"price": 859,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/36gX4Gw",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/714KHCyM0DL._SL1500_.jpg",
+		"skills_tags": ["visual perception", "Vehicle recognition", "coordination"],
+		"gender": ["B", "G"]
+
+	},
+	"product37": {
+		"id": 46,
+		"title": "Car Building Blocks",
+		"description": "Features a powerful pull-back motor, sturdy front bumper, large rear spoiler.",
+		"price": 1998,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2MU72pM",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/A1Ja%2BVKzwjL._SL1500_.jpg",
+		"skills_tags": ["visual perception", "Vehicle recognition", "coordination"],
+		"gender": ["B"]
+
+
+	},
+	"product38": {
+		"id": 47,
+		"title": "Road Runner Scooter",
+		"description": "3 Adjustable Height, Foldable, LED PU Wheels & Weight Capacity 75 kgs.",
+		"price": 2592,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Pp6b25",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61A696LuX%2BL._SL1200_.jpg",
+		"skills_tags": ["motor", "Vehicle recognition", "physical development"],
+		"gender": ["B", "G"]
+	},
+	"product39": {
+		"id": 48,
+		"title": "Electronics Toy",
+		"description": "Give your child an exciting, hands-on introduction to electronics with this kit.",
+		"price": 2349,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/34d5ZXL",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81DhNHv5WOL._SL1500_.jpg",
+		"skills_tags": ["Educational", "Scientific development", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product40": {
+		"id": 49,
+		"title": "Wooden Chess Set",
+		"description": "Size : 12 Inch X 12 Inch (Open), 12 Inch X 6 Inch (Folded).",
+		"price": 1350,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/31S6bdj",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71y8xnEp0nL._SL1453_.jpg",
+		"skills_tags": ["intelligence", "Social", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product41": {
+		"id": 50,
+		"title": "Letter Board Game",
+		"description": "Make the best word you can using any of your 7 letter tiles.",
+		"price": 451,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/34cLE4Y",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81DxpxY-BaL._SL1500_.jpg",
+		"skills_tags": ["intelligence", "Social", "Memory"],
+		"gender": ["B", "G"]
+	},
+	"product42": {
+		"id": 51,
+		"title": "Uno Card Game",
+		"description": "UNO Cards are made of good quality paper.",
+		"price": 129,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Ni1ynK",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71y0zW-PE1L._SL1500_.jpg",
+		"skills_tags": ["Social", "Color coordination", "intelligence"],
+		"gender": ["B", "G"]
+	},
+	"product43": {
+		"id": 52,
+		"title": "Monopoly Card Game",
+		"description": "Collect 3 complete property sets but beware of the debt collectors.",
+		"price": 246,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JxbPLB",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91AUI-p024L._SL1500_.jpg",
+		"skills_tags": ["Social", "Business", "intelligence"],
+		"gender": ["B", "G"]
+	},
+	"product44": {
+		"id": 53,
+		"title": "Pictionary Card Game",
+		"description": "Pictionary meets charades in the craziest card game ever.",
+		"price": 199,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2PrARzG",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91MA%2BTa40-L._SL1500_.jpg",
+		"skills_tags": ["Social", "Entertainment", "Creative"],
+		"gender": ["B", "G"]
+	},
+	"product45": {
+		"id": 54,
+		"title": "Fletter Card Game",
+		"description": "Shout out words at rapid-fire speed from letters placed before you.",
+		"price": 199,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2pmRUZ2",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/917wPvTb-FL._SL1500_.jpg",
+		"skills_tags": ["Social", "Thinking ability", "Creative"],
+		"gender": ["B", "G"]
+	},
+	"product46": {
+		"id": 55,
+		"title": "Poker Casino Game",
+		"description": "5 in 1 Casino Game Set: Play 5 games with this 1 Set.",
+		"price": 1299,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2NsUG7g",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71LusO8DboL._SL1408_.jpg",
+		"skills_tags": ["Social", "Thinking ability", "intelligence"],
+		"gender": ["B", "G"]
+
+
+	},
+	"product47": {
+		"id": 56,
+		"title": "Casino Game",
+		"description": "200 Professional Poker Chips, Poker Chips Rack.",
+		"price": 799,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JtnuLl",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71g2CHsFBNL._SL1500_.jpg",
+		"skills_tags": ["Social", "Analytical ability", "Business"],
+		"gender": ["B", "G"]
+
+	},
+	"product48": {
+		"id": 57,
+		"title": "The Brain Game",
+		"description": "FUN AND FAST PACED WORD GAME - SQUIK is all about using your skill.",
+		"price": 489,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JtnuLl",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71ndcyS85IL._SL1100_.jpg",
+		"skills_tags": ["Vocabulary building", "intelligence", "Creative Thinking"],
+		"gender": ["B", "G"]
+
+	},
+	"product49": {
+		"id": 58,
+		"title": "Dots and Mazes",
+		"description": "WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats.",
+		"price": 239,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2NlZnj1",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71oPt8ux4TL._SL1100_.jpg",
+		"skills_tags": ["Educational", "Communication Skills", "Logical Reasoning"],
+		"gender": ["B", "G"]
+
+	},
+	"product50": {
+		"id": 59,
+		"title": "Words Puzzle game",
+		"description": "Create words and have fun.",
+		"price": 192,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2qUogLa",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71lqbV3CmXL._SL1000_.jpg",
+		"skills_tags": ["Observation Skills", "coordination", "visual recognition"],
+		"gender": ["B", "G"]
+
+	},
+	"product51": {
+		"id": 60,
+		"title": "Funskool Jenga",
+		"description": "This is one game that children and adults can play together.",
+		"price": 550,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2owuW1e",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71MKTG4GDLL._SL1500_.jpg",
+		"skills_tags": ["Social", "Analytical ability", "coordination"],
+		"gender": ["B", "G"]
+
+	},
+	"product52": {
+		"id": 61,
+		"title": "10 Card Game",
+		"description": "From the makers of uno comes a rummy type card game.",
+		"price": 224,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Nltp6y",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71PcyE30tfL._SL1500_.jpg",
+		"skills_tags": ["Social", "intelligence", "Creative"],
+		"gender": ["B", "G"]
+
+
+
+	},
+	"product53": {
+		"id": 62,
+		"title": "Educational Card Games",
+		"description": "This is discounted mega combo pack of our range of 20 card games.",
+		"price": 1592,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Wo4mUo",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81nOK450wmL._SL1500_.jpg",
+		"skills_tags": ["Social", "intelligence", "Creative"],
+		"gender": ["B", "G"]
+
+	},
+	"product54": {
+		"id": 63,
+		"title": "Return Gift Combo",
+		"description": "A discounted combo of 20 packs, each pack contains 3 sheets of doodletois.",
+		"price": 1200,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/36gfM11",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81tI1EqQL%2BL._SL1500_.jpg",
+		"skills_tags": ["imagination", "creative", "Art and craft"],
+		"gender": ["B", "G"]
+
+	},
+	"product55": {
+		"id": 64,
+		"title": "Funskool Boggle Slam",
+		"description": "Boggle slam is a high-speed four-letter word game.",
+		"price": 169,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/2JuZVSo",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71522tzBBEL._SL1500_.jpg",
+		"skills_tags": ["Social", "intelligence", "Creative"],
+		"gender": ["B", "G"]
+
+	},
+	"product56": {
+		"id": 65,
+		"title": "Indian capitals",
+		"description": "This Learning toy consist of 1 Eva Foam frame puzzle.",
+		"price": 379,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/344jKIi",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81tlsqds-XL._SL1500_.jpg",
+		"skills_tags": ["educational", "intelligence", "motor skills", "State shape recognitions"],
+		"gender": ["B", "G"]
+	},
+	"product57": {
+		"id": 66,
+		"title": "Games Dos",
+		"description": "This classic card game invites two to ten players to challenge.",
+		"price": 199,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/36bVExf",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81T9q7o3xRL._SL1500_.jpg",
+		"skills_tags": ["Social", "Analytical ability", "Business"],
+		"gender": ["B", "G"]
+	},
+	"product58": {
+		"id": 67,
+		"title": "Taboo Board Game",
+		"description": "It's classic Taboo gameplay as players get teammates to say Guess word.",
+		"price": 1197,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/34cVN1y",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71zxK3T9r6L._SL1500_.jpg",
+		"skills_tags": ["Social", "Memory", "Creative"],
+		"gender": ["B", "G"]
+	},
+	"product59": {
+		"id": 68,
+		"title": "Wooden Ludo Board",
+		"description": "Solid wood construction with Imported birch ply top.",
+		"price": 1699,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2qSdFAh",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71bjE-SAC3L._SL1500_.jpg",
+		"skills_tags": ["Social", "Memory", "intelligence"],
+		"gender": ["B", "G"]
+	},
+	"product60": {
+		"id": 69,
+		"title": "Snakes and Ladders",
+		"description": "Traditional and fun game of snake and ladder.",
+		"price": 164,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Jtpnb2",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71CyIu10%2B-L._SL1295_.jpg",
+		"skills_tags": ["Observation", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product61": {
+		"id": 70,
+		"title": "Solitaire Board Game",
+		"description": "Classic game set with game board and 36 glass marbles.",
+		"price": 1510,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JxfFVc",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51oylGrIXWL.jpg",
+		"skills_tags": ["Observation", "coordination", "Social"],
+		"gender": ["B", "G"]
+	},
+	"product62": {
+		"id": 71,
+		"title": "Metal Chess Board ",
+		"description": "14 inches (Non Magnetic)- Special Slots Storage Inside Board.",
+		"price": 4999,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JyegOd",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71Grlk-nlKL._SL1500_.jpg",
+		"skills_tags": ["intelligence", "Social", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product63": {
+		"id": 72,
+		"title": "Puzzle Board",
+		"description": "Size: Length - 5 inches, Width - 5 inches, Height - 0.7 inches.",
+		"price": 399,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/34bx0L5",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/41HWsXo0bxL.jpg",
+		"skills_tags": ["intelligence", "Social", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product64": {
+		"id": 73,
+		"title": "Snake and Ladders",
+		"description": "PORTABLE EXCITING BOARD GAME: Portable fun; take snakes and ladders.",
+		"price": 549,
+		"age_group": [10, 14],
+		"amazon_link": "https://www.amazon.in/dp/B07JFZHHCK/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07JFZHHCK&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUSFQyMVI4Q1A1QTQmZW5jcnlwdGVkSWQ9QTA3ODgzMTExWTBWUDg2RkRYQU1aJmVuY3J5cHRlZEFkSWQ9QTAxNzM3ODkzMzQ0Tjg2QTRPU1dHJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71uxL4lZrtL._SL1500_.jpg",
+		"skills_tags": ["strategy", "coordination", "spatial reasoning", "Analytical skills"],
+		"gender": ["B", "G"]
+	},
+	"product65": {
+		"id": 74,
+		"title": "Game of Life",
+		"description": "Classic board game breaks down an entire lifespan into a series.",
+		"price": 614,
+		"age_group": [14, 18],
+		"amazon_link": "https://www.amazon.in/Funskool-Game-of-Life/dp/B009PGDVZ6/ref=pd_sbs_21_19?_encoding=UTF8&pd_rd_i=B009PGDVZ6&pd_rd_r=542e62a3-411f-4a02-8dab-5525d2dbbac1&pd_rd_w=HTMdr&pd_rd_wg=z5cGt&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=AX4PNRFYD351SEWJNZYP&psc=1&refRid=AX4PNRFYD351SEWJNZYP",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91YeZap4xOL._SL1500_.jpg",
+		"skills_tags": ["strategy", "coordination", "social"],
+		"gender": ["B", "G"]
+	},
+	"product66": {
+		"id": 75,
+		"title": "Funskool Othello",
+		"description": "This classic game of strategy takes a minute to learn.",
+		"price": 493,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2JxsizH",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/816hKFLkTzL._SL1500_.jpg",
+		"skills_tags": ["strategy", "coordination", "social"],
+		"gender": ["B", "G"]
+	},
+	"product68": {
+		"id": 77,
+		"title": "Strategy Board Game",
+		"description": "Unique gifting combo game for children with games.",
+		"price": 359,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/2BU5Lsu",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71KwvDGQBDL._SL1500_.jpg",
+		"skills_tags": ["strategy", "Analytical thinking", "Movement prediction"],
+		"gender": ["B", "G"]
+	},
+	"product69": {
+		"id": 78,
+		"title": "Business Board Game",
+		"description": "Jumbo size, Laminated board, Plastic money.",
+		"price": 459,
+		"age_group": [10, 14],
+		"amazon_link": "https://www.amazon.in/Ratnas-Business-Monopoly-Board-Plastic/dp/B01IYXJAFU/ref=pd_sbs_21_23?_encoding=UTF8&pd_rd_i=B01IYXJAFU&pd_rd_r=40336361-9293-4bf9-8d2b-a4abfa74d4f7&pd_rd_w=Kz7JU&pd_rd_wg=UkuKh&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=XGKZWTTCR64H4T6SY5TG&psc=1&refRid=XGKZWTTCR64H4T6SY5TG",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/91XSf386gHL._SL1500_.jpg",
+		"skills_tags": ["strategy", "Analytical thinking", "Business"],
+		"gender": ["B", "G"]
+	},
+	"product70": {
+		"id": 79,
+		"title": "Skillmatics Educational Game",
+		"description": "WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats.",
+		"price": 239,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2MX0WF5",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71szUB8MLkL._SL1500_.jpg",
+		"skills_tags": ["Logical Reasoning", "Creative", "Attention", "Observation"],
+		"gender": ["B", "G"]
+	},
+	"product71": {
+		"id": 80,
+		"title": "Chinese Checker Board",
+		"description": "Fun games full of strategy, tactics, skill and mind power.",
+		"price": 999,
+		"age_group": [14, 18],
+		"amazon_link": "https://www.amazon.in/dp/B06XXDNJGC/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B06XXDNJGC&pd_rd_w=OHJ7O&pf_rd_p=357151f8-058c-46f1-b7d1-fa3647ce3999&pd_rd_wg=hTdlG&pf_rd_r=V6VP5BNYK78HMHJMN6ND&pd_rd_r=9df0fba3-dd2e-4909-97ea-3b95a26a2a5e&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkU5QTZLUkpNMUtEJmVuY3J5cHRlZElkPUEwMDAxODc0MzlNMFg3RkpVNUJPOCZlbmNyeXB0ZWRBZElkPUEwMzcyNDA4MzRNQlc3Tk9SSEcxNSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81ZpfhmlG4L._SL1500_.jpg",
+		"skills_tags": ["coordination", "confidence", "memory"],
+		"gender": ["B", "G"]
+	},
+	"product72": {
+		"id": 81,
+		"title": "Ludo & Chess",
+		"description": "Best Game For Outdoor Picnic, Works As Mat On Picnic Spot.",
+		"price": 219,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2q62H9P",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61W2GpC5pgL._SL1000_.jpg",
+		"Skills_tags": ["social", "intelligence", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product73": {
+		"id": 82,
+		"title": "Wooden Board Games",
+		"description": "4-In-1 board game set lets you have three fun games.",
+		"price": 2380,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/31VyNm9",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51oBVp9SEnL.jpg",
+		"Skills_tags": ["social", "intelligence", "coordination"],
+		"gender": ["B", "G"]
+	},
+	"product74": {
+		"id": 83,
+		"title": "Game of Thrones",
+		"description": "Based on the hit tv series from hbo.",
+		"price": 2635,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/34bPL0X",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81XscuAh%2BLL._SL1500_.jpg",
+		"skills_tags": ["coordination", "Strategy", "Social"],
+		"gender": ["B", "G"]
+
+	},
+	"product75": {
+		"id": 84,
+		"title": "Strategy Racing",
+		"description": "Includes 3 tokens and 3 coins for four players each.",
+		"price": 999,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2Ps4pNC",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81VDlYm8elL._SL1500_.jpg",
+		"skills_tags": ["coordination", "Strategy", "Logical Thinking"],
+		"gender": ["B", "G"]
+
+	},
+	"product76": {
+		"id": 85,
+		"title": "Mind Challenge",
+		"description": "WRITE AND WIPE ACTIVITY MATS : Includes 6 Double Sided Activity Mats.",
+		"price": 239,
+		"age_group": [4, 10],
+		"amazon_link": "https://www.amazon.in/dp/B0786GZG8V/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0786GZG8V&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUUVZRkZKRk9DVjJBJmVuY3J5cHRlZElkPUEwNTgxOTUzMkxJSlE4QzgyMUg1TyZlbmNyeXB0ZWRBZElkPUEwNzQ4Nzk3M0RZN0VOQks1R1UxMyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/71CRNt1RrEL._SL1500_.jpg",
+		"skills_tags": ["Thinking", "coordination", "Vocabulary Building"],
+		"gender": ["B", "G"]
+
+	},
+	"product77": {
+		"id": 86,
+		"title": "Tic Tac Toe",
+		"description": "DEVELOP YOUR SKILLS AND LEARN AT THE SAME TIME.",
+		"price": 345,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/2NmhhST",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81EgZqd33xL._SL1500_.jpg",
+		"skills_tags": ["strategy", "coordination", "Analytical thinking"],
+		"gender": ["B", "G"]
+
+	},
+	"product78": {
+		"id": 87,
+		"title": "Indoor Bowling Set",
+		"description": "Includes a total of 10, 2-inch pins; pole is 8.5 inches long.",
+		"price": 4241,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2NsaNBI",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61iXA5jqp1L._SL1448_.jpg",
+		"skills_tags": ["intelligence", "Analytical thinking", "social"],
+		"gender": ["B", "G"]
+
+	},
+	"product79": {
+		"id": 88,
+		"title": "Find Out When",
+		"description": "An innovative approach to enhance early learning skills.",
+		"price": 224,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2Nll7eV",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61sjpkM9HjL.jpg",
+		"skills_tags": ["Visual Discrimination", "Comprehension", "Reading"],
+		"gender": ["B", "G"]
+
+	},
+	"product80": {
+		"id": 89,
+		"title": "3D Puzzle Game",
+		"description": "6-In-One Wooden Puzzle Games Set In One Box.",
+		"price": 1045,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2BPpKbR",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/61wDj1%2BqZ1L._SL1500_.jpg",
+		"skills_tags": ["social", "intelligence", "Logical reasoning"],
+		"gender": ["B", "G"]
+
+	},
+	"product81": {
+		"id": 90,
+		"title": "Puzzle game",
+		"description": "Fun Puzzle for kids and adults",
+		"price": 165,
+		"age_group": [10, 14],
+		"amazon_link": "https://amzn.to/36nQ9eJ",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/710ChBRLqyL._SL1289_.jpg",
+		"skills_tags": ["Logical Thinking", "coordination", "Visual Discrimination"],
+		"gender": ["B", "G"]
+
+	},
+	"product82": {
+		"id": 91,
+		"title": "Mancala Board Game",
+		"description": "This game is played on a wooden board.",
+		"price": 495,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/2NxSr2u",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/51bKBjvuFUL._SL1024_.jpg",
+		"skills_tags": ["strategy", "Logical thinking", "social"],
+		"gender": ["B", "G"]
+
+	},
+	"product83": {
+		"id": 92,
+		"title": "Animal Planet",
+		"description": "Card Game of Smart Questions | General Knowledge for Kids, Adults.",
+		"price": 345,
+		"age_group": [4, 10],
+		"amazon_link": "https://amzn.to/2Ny1P6f",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/816Or%2B6iq-L._SL1500_.jpg",
+		"skills_tags": ["Social", "Communication skills", "Creativity"],
+		"gender": ["B", "G"]
+
+	},
+	"product84": {
+		"id": 93,
+		"title": "Asia Map Puzzle",
+		"description": "1 Foam puzzle frame set, 1 foam countries set, 1 instructions.",
+		"price": 219,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/36nR6nj",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/81SM2JRgFdL._SL1500_.jpg",
+		"skills_tags": ["intelligence", "educational", "Memory"],
+		"gender": ["B", "G"]
+
+	},
+	"product85": {
+		"id": 94,
+		"title": "Augmented Reality Globe",
+		"description": "Orboot globe + app takes the child on an augmented reality.",
+		"price": 1998,
+		"age_group": [14, 18],
+		"amazon_link": "https://amzn.to/327Tlid",
+		"image_link": "https://images-na.ssl-images-amazon.com/images/I/813MBHYbqdL._SL1500_.jpg",
+		"skills_tags": ["educational", "linguistic", "cognitive skills"],
+		"gender": ["B", "G"]
+
 	}
-	
 
 }
